@@ -1,0 +1,2845 @@
+<!doctype html>
+<html lang="es">
+
+  <head>
+	
+	  
+  <meta charset="utf-8">
+
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+  <title>Error 404</title>
+  <meta name="description" content="Esta página no se encuentra">
+  <meta name="keywords" content="error, 404, No se ha encontrado">
+      
+                
+  
+
+<!--st begin -->
+
+    <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1.0" />
+
+<!--st end -->
+
+  <link rel="icon" type="image/vnd.microsoft.icon" href="https://media.naylampmechatronics.com/img/favicon.ico?1655495688">
+  <link rel="shortcut icon" type="image/x-icon" href="https://media.naylampmechatronics.com/img/favicon.ico?1655495688">
+  <!--st begin -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://media.naylampmechatronics.com/upload/stthemeeditor/185683546b0bc59ce6573c66980e5aee.png?1612322882" />
+      <link rel="icon" type="image/png" sizes="16x16" href="https://media.naylampmechatronics.com/upload/stthemeeditor/06fcdeb3efdee190e3449d96764be6b4.png?1612322882" />
+      <link rel="icon" type="image/png" sizes="32x32" href="https://media.naylampmechatronics.com/upload/stthemeeditor/d500da724d789adcaece07dd84a0c472.png?1612322882" />
+      <link rel="manifest" href="/upload/stthemeeditor/1/site.webmanifest?1612322882">
+      <link rel="mask-icon" href="https://media.naylampmechatronics.com/upload/stthemeeditor/4338c3d5c17237944b80e73be52c212e.svg?1612322882" color="#e54d26">
+      <meta name="msapplication-config" content="https://media.naylampmechatronics.com/upload/stthemeeditor/1/browserconfig.xml?1612322882">
+    
+<!--st end -->
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Share+Tech|Vollkorn:regular" media="all">
+  <link rel="stylesheet" href="https://media.naylampmechatronics.com/themes/panda/assets/cache/theme-a4268270.css" media="all">
+
+
+
+
+
+
+  
+
+  <script>
+        var addtocart_animation = 0;
+        var cart_ajax = true;
+        var click_on_header_cart = 0;
+        var confirm_report_message = "\u00bfEst\u00e1 seguro de denunciar un abuso?";
+        var dictRemoveFile = "Eliminar";
+        var go_to_shopping_cart = 0;
+        var hover_display_cp = 1;
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"S\/\u00a00,00"},"total_including_tax":{"type":"total","label":"Total (impuestos incl.)","amount":0,"value":"S\/\u00a00,00"},"total_excluding_tax":{"type":"total","label":"Total (impuestos excl.)","amount":0,"value":"S\/\u00a00,00"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"S\/\u00a00,00"},"discounts":null,"shipping":{"type":"shipping","label":"Transporte","amount":0,"value":""},"tax":null},"products_count":0,"summary_string":"0 art\u00edculos","vouchers":{"allowed":1,"added":[]},"discounts":[{"id_cart_rule":"432","id_customer":"0","date_from":"2021-08-04 12:00:00","date_to":"2022-12-31 12:00:00","description":"Descuento por la compra de una impresora y dos o m\u00e1s filamentos ","quantity":"77","quantity_per_user":"10","priority":"1","partial_use":"0","code":"","minimum_amount":"0.000000","minimum_amount_tax":"0","minimum_amount_currency":"2","minimum_amount_shipping":"0","country_restriction":"0","carrier_restriction":"0","group_restriction":"0","cart_rule_restriction":"0","product_restriction":"1","shop_restriction":"0","free_shipping":"0","reduction_percent":"0.00","reduction_amount":"40.000000","reduction_tax":"0","reduction_currency":"2","reduction_product":"0","reduction_exclude_special":"0","gift_product":"0","gift_product_attribute":"0","highlight":"1","active":"1","date_add":"2021-08-04 13:01:44","date_upd":"2022-11-16 16:09:37","id_lang":"3","name":"Compra de impresora y 2 o m\u00e1s filamentos","quantity_for_user":10},{"id_cart_rule":"431","id_customer":"0","date_from":"2021-08-03 20:00:00","date_to":"2022-12-31 20:00:00","description":"Por compra de una impresora y un filamento, recibes un descuento especial.","quantity":"976","quantity_per_user":"10","priority":"1","partial_use":"0","code":"","minimum_amount":"0.000000","minimum_amount_tax":"0","minimum_amount_currency":"2","minimum_amount_shipping":"0","country_restriction":"0","carrier_restriction":"0","group_restriction":"0","cart_rule_restriction":"0","product_restriction":"1","shop_restriction":"0","free_shipping":"0","reduction_percent":"0.00","reduction_amount":"20.000000","reduction_tax":"0","reduction_currency":"2","reduction_product":"0","reduction_exclude_special":"0","gift_product":"0","gift_product_attribute":"0","highlight":"1","active":"1","date_add":"2021-08-03 20:24:51","date_upd":"2022-11-16 16:09:37","id_lang":"3","name":"Compra de impresora m\u00e1s filamento","quantity_for_user":10}],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"id":2,"name":"Sol peruano","iso_code":"PEN","iso_code_num":"604","sign":"S\/"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Espa\u00f1ol (Spanish)","iso_code":"es","locale":"es-ES","language_code":"es-es","is_rtl":"0","date_format_lite":"d\/m\/Y","date_format_full":"d\/m\/Y H:i:s","id":3},"page":{"title":"La p\u00e1gina que busca no se ha encontrado.","canonical":null,"meta":{"title":"Error 404","description":"Esta p\u00e1gina no se encuentra","keywords":"error, 404, No se ha encontrado","robots":"index"},"page_name":"pagenotfound","body_classes":{"lang-es":true,"lang-rtl":false,"country-PE":true,"currency-PEN":true,"layout-full-width":true,"page-pagenotfound":true,"tax-display-disabled":true},"admin_notifications":[]},"shop":{"name":"Naylamp Mechatronics - Per\u00fa","logo":"https:\/\/media.naylampmechatronics.com\/img\/prestashop-logo-1628069096.jpg","stores_icon":"https:\/\/media.naylampmechatronics.com\/img\/logo_stores.png","favicon":"https:\/\/media.naylampmechatronics.com\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/naylampmechatronics.com\/","current_url":"https:\/\/naylampmechatronics.com\/img\/p\/es-default-home_default.jpg","shop_domain_url":"https:\/\/naylampmechatronics.com","img_ps_url":"https:\/\/media.naylampmechatronics.com\/img\/","img_cat_url":"https:\/\/media.naylampmechatronics.com\/img\/c\/","img_lang_url":"https:\/\/media.naylampmechatronics.com\/img\/l\/","img_prod_url":"https:\/\/media.naylampmechatronics.com\/img\/p\/","img_manu_url":"https:\/\/media.naylampmechatronics.com\/img\/m\/","img_sup_url":"https:\/\/media.naylampmechatronics.com\/img\/su\/","img_ship_url":"https:\/\/media.naylampmechatronics.com\/img\/s\/","img_store_url":"https:\/\/media.naylampmechatronics.com\/img\/st\/","img_col_url":"https:\/\/media.naylampmechatronics.com\/img\/co\/","img_url":"https:\/\/media.naylampmechatronics.com\/themes\/panda\/assets\/img\/","css_url":"https:\/\/media.naylampmechatronics.com\/themes\/panda\/assets\/css\/","js_url":"https:\/\/media.naylampmechatronics.com\/themes\/panda\/assets\/js\/","pic_url":"https:\/\/media.naylampmechatronics.com\/upload\/","pages":{"address":"https:\/\/naylampmechatronics.com\/direccion","addresses":"https:\/\/naylampmechatronics.com\/direcciones","authentication":"https:\/\/naylampmechatronics.com\/autenticacion","cart":"https:\/\/naylampmechatronics.com\/carro-de-la-compra","category":"https:\/\/naylampmechatronics.com\/index.php?controller=category","cms":"https:\/\/naylampmechatronics.com\/index.php?controller=cms","contact":"https:\/\/naylampmechatronics.com\/contacto","discount":"https:\/\/naylampmechatronics.com\/descuento","guest_tracking":"https:\/\/naylampmechatronics.com\/estado-pedido","history":"https:\/\/naylampmechatronics.com\/historial-de-pedidos","identity":"https:\/\/naylampmechatronics.com\/identidad","index":"https:\/\/naylampmechatronics.com\/","my_account":"https:\/\/naylampmechatronics.com\/mi-cuenta","order_confirmation":"https:\/\/naylampmechatronics.com\/confirmacion-pedido","order_detail":"https:\/\/naylampmechatronics.com\/index.php?controller=order-detail","order_follow":"https:\/\/naylampmechatronics.com\/devolucion-de-productos","order":"https:\/\/naylampmechatronics.com\/carrito","order_return":"https:\/\/naylampmechatronics.com\/index.php?controller=order-return","order_slip":"https:\/\/naylampmechatronics.com\/vales","pagenotfound":"https:\/\/naylampmechatronics.com\/pagina-no-encuentra","password":"https:\/\/naylampmechatronics.com\/contrasena-olvidado","pdf_invoice":"https:\/\/naylampmechatronics.com\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/naylampmechatronics.com\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/naylampmechatronics.com\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/naylampmechatronics.com\/promocion","product":"https:\/\/naylampmechatronics.com\/index.php?controller=product","search":"https:\/\/naylampmechatronics.com\/buscar","sitemap":"https:\/\/naylampmechatronics.com\/mapa-del-sitio","stores":"https:\/\/naylampmechatronics.com\/tiendas","supplier":"https:\/\/naylampmechatronics.com\/proveedores","register":"https:\/\/naylampmechatronics.com\/autenticacion?create_account=1","order_login":"https:\/\/naylampmechatronics.com\/carrito?login=1"},"alternative_langs":[],"theme_assets":"\/themes\/panda\/assets\/","actions":{"logout":"https:\/\/naylampmechatronics.com\/?mylogout="},"no_picture_image":{"bySize":{"cart_default":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-cart_default.jpg","width":70,"height":70},"small_default":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-small_default.jpg","width":105,"height":105},"cart_default_2x":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-cart_default_2x.jpg","width":140,"height":140},"small_default_2x":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-small_default_2x.jpg","width":210,"height":210},"home_default":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-home_default.jpg","width":280,"height":280},"home_default_2x":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-home_default_2x.jpg","width":560,"height":560},"medium_default":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-medium_default.jpg","width":570,"height":570},"large_default":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-large_default.jpg","width":800,"height":800},"medium_default_2x":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-medium_default_2x.jpg","width":1000,"height":1000},"large_default_2x":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-large_default_2x.jpg","width":1200,"height":1200},"superlarge_default":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-superlarge_default.jpg","width":1200,"height":1200},"superlarge_default_2x":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-superlarge_default_2x.jpg","width":1200,"height":1200}},"small":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-cart_default.jpg","width":70,"height":70},"medium":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-medium_default.jpg","width":570,"height":570},"large":{"url":"https:\/\/media.naylampmechatronics.com\/img\/p\/es-default-superlarge_default_2x.jpg","width":1200,"height":1200},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"price","label":"Precio unitario"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Inicio","url":"https:\/\/naylampmechatronics.com\/"}],"count":1},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1669321613,"static_token":"464645b3fa557aac8d8d6153b1871f9b","token":"7aa2614dceba90a7f3ade74c643d0727","debug":false};
+        var quick_search_as = true;
+        var quick_search_as_min = 3;
+        var quick_search_as_size = 6;
+        var st_cart_page_url = "\/\/naylampmechatronics.com\/carro-de-la-compra?action=show";
+        var st_ins_getimgurl = "https:\/\/naylampmechatronics.com\/module\/stinstagram\/list";
+        var st_maximum_already_message = "Ya tiene la cantidad m\u00e1xima disponible para este producto.";
+        var st_pc_display_format = "#left \/ #max Characters left.";
+        var st_pc_max = "500";
+        var st_pc_max_images = "6";
+        var st_refresh_url = "\/\/naylampmechatronics.com\/module\/stshoppingcart\/ajax";
+        var stblogcomments_moderate = 1;
+        var stgrecaptcha = {"invisible_v2":"1","site_key":"6LcXtUwUAAAAAFQhvc632Du_1P8jrD9C8mnA2lfv","login_attempts":"5","theme":"light","type":"image","size":"normal","lang":"es","logged_in":"1","no_connect":"0","news_delay":"0","login":{"enabled":"0","selector":"body#authentication #login-form .form_content_inner .form-group:last","html":"<div class=\"stgr_login stgr_box form-group form-group-small\"><div class=\"g-recaptcha\"><\/div><\/div>","append":"2"},"register":{"enabled":"1","selector":"body#authentication #customer-form .com_grid_view","html":"<div class=\"col-lg-12\"><div class=\"stgr_register stgr_box form-group form-group-small\"><div class=\"g-recaptcha\"><\/div><\/div><\/div>","append":"0"},"contact":{"enabled":"1","selector":".contact-form .form-fields","html":"<div class=\"stgr_contact stgr_box form-group\"><label class=\"form-control-label required\">Captcha<\/label><div><div class=\"g-recaptcha\"><\/div><\/div><\/div>","append":"0"},"opclogin":{"enabled":"0","selector":"body#checkout #login-form .form_content_inner .form-group:last","html":"<div class=\"stgr_opclogin stgr_box form-group form-group-small\"><div class=\"g-recaptcha\"><\/div><\/div>","append":"2"},"opcregister":{"enabled":"1","selector":"body#checkout #customer-form .form_content_inner","html":"<div class=\"stgr_opcregister stgr_box form-group form-group-small\"><div class=\"g-recaptcha\"><\/div><\/div>","append":"0"},"stnewsletter":{"enabled":"1","selector":".st_news_letter_form_inner","html":"<div class=\"stgr_stnewsletter stgr_box mt-2\"><div class=\"g-recaptcha\"><\/div><\/div>","append":"0"},"emailsubscription":{"enabled":"1","selector":".block_newsletter form .col-xs-12:first","html":"<div class=\"stgr_emailsubscription stgr_box col-xs-12 mt-1\"><div class=\"g-recaptcha\"><\/div><\/div>","append":"2"},"stproductcomments":{"enabled":"0","selector":"form[name=st_product_comment_reply_form] .form-group:last","html":"<div class=\"stgr_stproductcomments stgr_box form-group\"><div class=\"g-recaptcha\"><\/div><\/div>","append":"2"},"stblogcomments":{"enabled":"1","selector":"form[name=st_blog_comment_form] #comment_textarea","html":"<div class=\"stgr_stblogcomments stgr_box form-group\"><div class=\"g-recaptcha\"><\/div><\/div>","append":"1"},"forms":{"login":{"id":"login","val":1,"name":"Login form"},"register":{"id":"register","val":1,"name":"Register form"},"contact":{"id":"contact","val":1,"name":"Contact form"},"opclogin":{"id":"opclogin","val":1,"name":"One page checkout Login form"},"opcregister":{"id":"opcregister","val":1,"name":"One page checkout register form"},"stnewsletter":{"id":"stnewsletter","val":1,"name":"Newsletter popup"},"emailsubscription":{"id":"emailsubscription","val":1,"name":"Newsletter subscription"},"stproductcomments":{"id":"stproductcomments","val":1,"name":"Product comments"},"stblogcomments":{"id":"stblogcomments","val":1,"name":"Blog comments"}}};
+        var stmywishlist_url = "https:\/\/naylampmechatronics.com\/module\/stwishlist\/mywishlist";
+        var stproductcomments_controller_url = "https:\/\/naylampmechatronics.com\/module\/stproductcomments\/default?secure_key=415ee269a26e4f5fe5d07af16f57b154";
+        var stproductcomments_url = "https:\/\/naylampmechatronics.com\/module\/stproductcomments\/default";
+        var sttheme = {"cookie_domain":"naylampmechatronics.com","cookie_path":"\/","drop_down":0,"magnificpopup_tprev":"Anterior","magnificpopup_tnext":"Siguiente","magnificpopup_tcounter":"%curr% of %total%","is_rtl":0,"is_mobile_device":false,"gallery_image_type":"medium_default","thumb_image_type":"cart_default","responsive_max":1,"fullwidth":0,"responsive":"1","product_view_swither":"1","infinite_scroll":"2","cate_pro_lazy":"1","sticky_column":"1","filter_position":"","sticky_option":3,"product_thumbnails":"2","pro_thumnbs_per_fw":"2","pro_thumnbs_per_xxl":"1","pro_thumnbs_per_xl":"1","pro_thumnbs_per_lg":"1","pro_thumnbs_per_md":"3","pro_thumnbs_per_sm":"2","pro_thumnbs_per_xs":"1","pro_kk_per_fw":"1","pro_kk_per_xxl":"1","pro_kk_per_xl":"1","pro_kk_per_lg":"1","pro_kk_per_md":"1","pro_kk_per_sm":"1","pro_kk_per_xs":"1","categories_per_fw":"1","categories_per_xxl":"6","categories_per_xl":"5","categories_per_lg":"5","categories_per_md":"4","categories_per_sm":"3","categories_per_xs":"2","enable_zoom":2,"enable_thickbox":2,"retina":"1","sticky_mobile_header":"3","sticky_mobile_header_height":"40","use_mobile_header":"1","pro_image_column_md":"6","submemus_animation":0,"submemus_action":0,"pro_quantity_input":"2","popup_vertical_fit":"1","pro_tm_slider":"0","pro_tm_slider_cate":"0","buy_now":"0","lazyload_main_gallery":"0","product_views":"0"};
+        var stwish_pros = [];
+        var wrongemailaddress_stnewsletter = "Direcci\u00f3n de correo electr\u00f3nico inv\u00e1lida";
+      </script>
+
+<!--st end -->
+
+  <style>#multilink_11 .custom_links_list{font-size:12px;}</style>
+<style>#st_header .search_widget_block{width:280px;}</style>
+<style>#st_swiper_3 .swiper-pagination-bullet-active, #st_swiper_3 .swiper-pagination-progress .swiper-pagination-progressbar{background-color:#ffffff;}#st_swiper_3 .swiper-pagination-st-round .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:#ffffff;border-color:#ffffff;}#st_swiper_3 .swiper-pagination-st-round .swiper-pagination-bullet.swiper-pagination-bullet-active span{background-color:#ffffff;}</style>
+<style>#steasy_column_13{padding-top: 0px;}#steasy_column_13{padding-bottom: 0px;}#steasy_column_14{padding-top: 5px;}#steasy_column_14{padding-bottom: 0px;}#steasy_column_14 #stsocial_item_22 .social_wrap{background-color: #25D366;}#steasy_column_14 #stsocial_item_22:hover .social_wrap{background-color: #128C7E;border-color: #128C7E;}#steasy_column_14 #stsocial_item_21 .social_wrap{background-color: #4267B2;}#steasy_column_14 #stsocial_item_21:hover .social_wrap{background-color: #004080;border-color: #004080;}#steasy_column_14 #stsocial_item_23 .social_wrap{background-color: #E1306C;}#steasy_column_14 #stsocial_item_23:hover .social_wrap{background-color: #F77737;border-color: #F77737;}#steasy_column_15{padding-top: 0px;}#steasy_column_15{padding-bottom: 0px;}#steasy_column_16{padding-top: 0px;}#steasy_column_16{padding-bottom: 0px;}#steasy_element_24 .easy_icon_with_text_4_1 .easy_icon{color: #777777;}#steasy_element_24 .easy_icon_with_text_4_1 .easy_icon{background-color: #ffffff;}#steasy_element_24 .easy_icon_with_text_4_1:hover .easy_icon{background-color: #ffffff;}#steasy_element_24 .easy_icon_with_text_4_1 .easy_icon{font-size: 25px;}#steasy_element_24 .easy_icon_with_text_4_1 .easy_icon{width: 30px;height: 30px;line-height: 30px;}#steasy_element_25 .easy_icon_with_text_4_1 .easy_icon{color: #777777;}#steasy_element_25 .easy_icon_with_text_4_1 .easy_icon{background-color: #ffffff;}#steasy_element_25 .easy_icon_with_text_4_1:hover .easy_icon{background-color: #ffffff;}#steasy_element_25 .easy_icon_with_text_4_1 .easy_icon{font-size: 20px;}#steasy_element_25 .easy_icon_with_text_4_1 .easy_icon{width: 30px;height: 30px;line-height: 30px;}#steasy_element_26 .easy_icon_with_text_4_1 .easy_icon{color: #777777;}#steasy_element_26 .easy_icon_with_text_4_1 .easy_icon{background-color: #ffffff;}#steasy_element_26 .easy_icon_with_text_4_1:hover .easy_icon{background-color: #ffffff;}#steasy_element_26 .easy_icon_with_text_4_1 .easy_icon{font-size: 20px;}#steasy_element_26 .easy_icon_with_text_4_1 .easy_icon{width: 30px;height: 30px;line-height: 30px;}#steasy_element_27 .easy_icon_with_text_4_1 .easy_icon{color: #777777;}#steasy_element_27 .easy_icon_with_text_4_1 .easy_icon{background-color: #ffffff;}#steasy_element_27 .easy_icon_with_text_4_1:hover .easy_icon{background-color: #ffffff;}#steasy_element_27 .easy_icon_with_text_4_1 .easy_icon{font-size: 20px;}#steasy_element_27 .easy_icon_with_text_4_1 .easy_icon{width: 30px;height: 30px;line-height: 30px;}</style>
+<style>body#module-stblog-default .header-container { margin-bottom: 50px; }.block_blog .s_title_block{font-size: 16px;}.products_sldier_swiper .block_blog .pro_outer_box:hover .pro_second_box,.product_list.grid .block_blog .pro_outer_box:hover .pro_second_box{ background-color: #ffffff; }</style>
+<style>.st_banner_block_1 .st_image_layered_description, a.st_banner_block_1 , .st_banner_block_1 .st_image_layered_description a{color:#ffffff;} .st_banner_block_1 .separater{border-color:#ffffff;}.st_banner_block_2 .st_image_layered_description, a.st_banner_block_2 , .st_banner_block_2 .st_image_layered_description a{color:#ffffff;} .st_banner_block_2 .separater{border-color:#ffffff;}.st_banner_block_3 .st_image_layered_description, a.st_banner_block_3 , .st_banner_block_3 .st_image_layered_description a{color:#ffffff;} .st_banner_block_3 .separater{border-color:#ffffff;}.st_banner_block_4 .st_image_layered_description, a.st_banner_block_4 , .st_banner_block_4 .st_image_layered_description a{color:#ffffff;} .st_banner_block_4 .separater{border-color:#ffffff;}.st_banner_block_5 .st_image_layered_description, a.st_banner_block_5 , .st_banner_block_5 .st_image_layered_description a{color:#ffffff;} .st_banner_block_5 .separater{border-color:#ffffff;}.st_banner_block_6 .st_image_layered_description, a.st_banner_block_6 , .st_banner_block_6 .st_image_layered_description a{color:#ffffff;} .st_banner_block_6 .separater{border-color:#ffffff;}.st_banner_block_7 .st_image_layered_description, a.st_banner_block_7 , .st_banner_block_7 .st_image_layered_description a{color:#ffffff;} .st_banner_block_7 .separater{border-color:#ffffff;}.st_banner_block_8 .st_image_layered_description, a.st_banner_block_8 , .st_banner_block_8 .st_image_layered_description a{color:#ffffff;} .st_banner_block_8 .separater{border-color:#ffffff;}</style>
+<style>#st_news_letter_1 .st_news_letter_form_inner{max-width:258px;}#st_news_letter_1 .st_news_letter_input{height:35px;}#st_news_letter_1 .input-group-with-border{border-color:#444444;}#st_news_letter_2 .st_news_letter_form_inner{max-width:258px;}#st_news_letter_2 .st_news_letter_input{height:35px;}#st_news_letter_2 .input-group-with-border{border-color:#444444;}#st_news_letter_2 ,#footer #st_news_letter_2 {margin-top:0px;}#st_news_letter_2 ,#footer #st_news_letter_2 {margin-bottom:0px;}</style>
+<style>.countdown_timer.countdown_style_0 .countdown_wrap_inner div{padding-top:11px;padding-bottom:11px;}.countdown_timer.countdown_style_0 .countdown_wrap_inner div span{height:22px;line-height:22px;}.countdown_timer.countdown_style_0 .countdown_wrap_inner div{border-right:none;}.countdown_name{display:none;}</style>
+<script>
+//<![CDATA[
+
+var s_countdown_all = 0;
+var s_countdown_id_products = []; 
+var s_countdown_style = 0; 
+var s_countdown_lang = new Array();
+s_countdown_lang['day'] = "día";
+s_countdown_lang['days'] = "días";
+s_countdown_lang['hrs'] = "horas";
+s_countdown_lang['min'] = "min";
+s_countdown_lang['sec'] = "segundo";
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+var ins_follow = "Síganos";
+var ins_posts = "Contenido";
+var ins_followers = "Seguidores";
+var ins_following = "Seguiendo";
+var stinstagram_view_in_ins = "Vistazo en Instagram";
+var stinstagram_view_larger = "Haz un vistazo grande";
+var st_timeago_suffixAgo= "hace";
+var st_timeago_suffixFromNow= "a partir de ahora";
+var st_timeago_inPast= "cualquier momento ahora";
+var st_timeago_seconds= "menos de un minuto";
+var st_timeago_minute= "alrededor de un minuto";
+var st_timeago_minutes= "#d minutos";
+var st_timeago_hour= "alrededor de una hora";
+var st_timeago_hours= "aproximadamente #d horas";
+var st_timeago_day= "un día";
+var st_timeago_days= "#d días";
+var st_timeago_month= "alrededor de un mes";
+var st_timeago_months= "#d meses";
+var st_timeago_year= "alrededor de un año";
+var st_timeago_years= "#d años";
+var st_timeago_years= "#d años";
+var ins_previous= "Anterior";
+var ins_next= "Siguiente";
+
+var instagram_block_array={'profile':[],'feed':[]};
+
+//]]>
+</script><style>#st_notification_1 {padding-top:4px;padding-bottom:4px;}#st_notification_1 {padding-left:6px;padding-right:6px;}#st_notification_1 .style_content, #st_notification_1 .style_content a{color:#999999;}#st_notification_1 .st_notification_close_inline{color:#999999;}#st_notification_1 .style_content a:hover{color:#E54D26;}#st_notification_1 {background:rgba(51,51,51,1);}#st_notification_1 .style_content .notification_buttons .btn{color:#ffffff;}#st_notification_1 .style_content .notification_buttons .btn{border-color:#ffffff;}#st_notification_1 .style_content .notification_buttons .btn:hover{color:#444444;}#st_notification_1 .style_content .notification_buttons .btn:hover{border-color:#ffffff;}#st_notification_1 .style_content .notification_buttons .btn{-webkit-box-shadow: inset 0 0 0 0 #ffffff; box-shadow: inset 0 0 0 0 #ffffff;}#st_notification_1 .style_content .notification_buttons .btn:hover{-webkit-box-shadow: inset 0 -100px 0 0 #ffffff; box-shadow: inset 0 -100px 0 0 #ffffff;background-color:transparent;}#st_notification_2 {padding-top:4px;padding-bottom:4px;}#st_notification_2 {padding-left:6px;padding-right:6px;}#st_notification_2 .style_content, #st_notification_2 .style_content a{color:#999999;}#st_notification_2 .st_notification_close_inline{color:#999999;}#st_notification_2 .style_content a:hover{color:#E54D26;}#st_notification_2 {background:rgba(51,51,51,1);}#st_notification_2 .style_content .notification_buttons .btn{color:#ffffff;}#st_notification_2 .style_content .notification_buttons .btn{border-color:#ffffff;}#st_notification_2 .style_content .notification_buttons .btn:hover{color:#444444;}#st_notification_2 .style_content .notification_buttons .btn:hover{border-color:#ffffff;}#st_notification_2 .style_content .notification_buttons .btn{-webkit-box-shadow: inset 0 0 0 0 #ffffff; box-shadow: inset 0 0 0 0 #ffffff;}#st_notification_2 .style_content .notification_buttons .btn:hover{-webkit-box-shadow: inset 0 -100px 0 0 #ffffff; box-shadow: inset 0 -100px 0 0 #ffffff;background-color:transparent;}</style>
+<style> .breadcrumb_spacing{height:20px;} #page_banner_container_1 {padding-top: 8px;} #page_banner_container_1 {padding-bottom: 8px;} #page_banner_container_1 {margin-top:5px;}</style>
+<style>#side_search{right: 0; left: auto; border-left-width: 4px;border-right-width: 0;}.is_rtl #side_search{left: 0; right: auto;border-left-width:0;border-right-width: 4px;}#side_search .st-menu-header .close_right_side{left: 4px; right: auto;}.is_rtl #side_search .st-menu-header .close_right_side{left: auto; right: 4px;}#side_products_cart{right: 0; left: auto; border-left-width: 4px;border-right-width: 0;}.is_rtl #side_products_cart{left: 0; right: auto;border-left-width:0;border-right-width: 4px;}#side_products_cart .st-menu-header .close_right_side{left: 4px; right: auto;}.is_rtl #side_products_cart .st-menu-header .close_right_side{left: auto; right: 4px;}#side_mobile_nav{right: 0; left: auto; border-left-width: 4px;border-right-width: 0;}.is_rtl #side_mobile_nav{left: 0; right: auto;border-left-width:0;border-right-width: 4px;}#side_mobile_nav .st-menu-header .close_right_side{left: 4px; right: auto;}.is_rtl #side_mobile_nav .st-menu-header .close_right_side{left: auto; right: 4px;}#side_stmobilemenu{right: 0; left: auto; border-left-width: 4px;border-right-width: 0;}.is_rtl #side_stmobilemenu{left: 0; right: auto;border-left-width:0;border-right-width: 4px;}#side_stmobilemenu .st-menu-header .close_right_side{left: 4px; right: auto;}.is_rtl #side_stmobilemenu .st-menu-header .close_right_side{left: auto; right: 4px;}#rightbar{-webkit-flex-grow: 0; -moz-flex-grow: 0; flex-grow: 0; -ms-flex-positive: 0;}#leftbar{-webkit-flex-grow: 0; -moz-flex-grow: 0; flex-grow: 0; -ms-flex-positive: 0;}.st-menu{bottom:0;}#body_wrapper{padding-bottom: 0;}.mobile_device.use_mobile_header .st-menu{bottom:0;}.mobile_device.use_mobile_header #body_wrapper{padding-bottom: 0;}@media only screen and (max-width: 991px) {.layout-left-column.slide_lr_column .st-menu,.layout-right-column.slide_lr_column .st-menu,.layout-both-columns.slide_lr_column .st-menu{bottom:50px;}.layout-left-column.slide_lr_column #body_wrapper,.layout-right-column.slide_lr_column #body_wrapper,.layout-both-columns.slide_lr_column #body_wrapper{padding-bottom: 50px;}}@media only screen and (max-width: 991px) {.mobile_device.use_mobile_header.layout-left-column.slide_lr_column .st-menu,.mobile_device.use_mobile_header.layout-right-column.slide_lr_column .st-menu,.mobile_device.use_mobile_header.layout-both-columns.slide_lr_column .st-menu{bottom:50px;}.mobile_device.use_mobile_header.layout-left-column.slide_lr_column #body_wrapper,.mobile_device.use_mobile_header.layout-right-column.slide_lr_column #body_wrapper,.mobile_device.use_mobile_header.layout-both-columns.slide_lr_column #body_wrapper{padding-bottom: 50px;}}#rightbar{top:auto; bottom:0%;}#leftbar{top:auto; bottom:0%;}</style>
+        <meta property="og:site_name" content="Naylamp Mechatronics - Perú" />
+    <meta property="og:url" content="https://naylampmechatronics.com/img/p/es-default-home_default.jpg" />
+        <meta property="og:type" content="website" />
+    <meta property="og:title" content="Error 404" />
+    <meta property="og:description" content="Esta página no se encuentra" />
+        <meta property="og:image" content="https://media.naylampmechatronics.com/img/prestashop-logo-1628069096.jpg" />
+        <style>.social_share_1{color:#fff!important;}.social_share_1{background-color:#EA4335!important;}.social_share_1:hover{color:#fff!important;}.social_share_1:hover{background-color:#BB001B!important;}.social_share_2{color:#ffffff!important;}.social_share_2{background-color:#3b5998!important;}.social_share_2:hover{color:#ffffff!important;}.social_share_2:hover{background-color:#2E4674!important;}.social_share_3{color:#fff!important;}.social_share_3{background-color:#25D366!important;}.social_share_3:hover{color:#fff!important;}.social_share_3:hover{background-color:#075E54!important;}.social_share_4{color:#fff!important;}.social_share_4{background-color:#6cc1e3!important;}.social_share_4:hover{color:#fff!important;}.social_share_4:hover{background-color:#4995be!important;}</style>
+<style>.st_sticker_1{border-color:#999999;}.st_sticker_1{border-width:2px;}.st_sticker_1{font-weight:normal;}.st_sticker_1{left:0px;}.st_sticker_1{top:0px;}.st_sticker_2{border-color:#999999;}.st_sticker_2{border-width:2px;}.st_sticker_2{font-weight:normal;}.st_sticker_2{right:0px;}.st_sticker_2{top:0px;}.st_sticker_3{color:#ffffff;}.st_sticker_3{background:rgba(229,77,38,0);}.st_sticker_3{border-width:0px;}.st_sticker_4{color:#E01616;}.st_sticker_4{border-color:#E01616;}.st_sticker_4{border-width:2px;}.st_sticker_4{font-weight:normal;}.st_sticker_7{color:#2c873b;}.st_sticker_7{background:rgba(0,0,0,0);}.st_sticker_7{border-color:#2c873b;}.st_sticker_7{border-width:2px;}.st_sticker_7{font-weight:normal;}</style>
+
+<script type="text/javascript">
+	(window.gaDevIds=window.gaDevIds||[]).push('d6YPbH');
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-59546434-1', 'auto');
+                        ga('send', 'pageview');
+    
+    ga('require', 'ec');
+</script>
+
+<!--Module: ets_socicallogin -->
+<script type="text/javascript">
+    var ets_solo_callbackUrl = 'https://naylampmechatronics.com/module/ets_sociallogin/oauth';
+</script>
+<!--/Module: ets_socicallogin-->
+
+	
+  </head>
+  <body id="pagenotfound" class="pagenotfound lang-es country-pe currency-pen layout-full-width page-pagenotfound tax-display-disabled   lang_es  dropdown_menu_event_0 
+   desktop_device  slide_lr_column        is_logged_0 	 hide-left-column hide-right-column 
+  ">	
+      
+    
+	<div id="st-container" class="st-container st-effect-0">
+	  <div class="st-pusher">
+		<div class="st-content"><!-- this is the wrapper for the content -->
+		  <div class="st-content-inner">
+	<!-- off-canvas-end -->
+
+	<main id="body_wrapper">
+	  <div id="page_wrapper" class="">
+	  
+			  
+	  <div class="header-container   header_sticky_option_3">
+	  <header id="st_header" class="animated fast">
+		
+		  
+      <div id="displayBanner" class="header-banner  hide_when_sticky ">
+    <!-- MODULE st stnotification -->
+<!-- /MODULE st stnotification --><!-- MODULE st steasycontent -->
+<!-- /MODULE st steasycontent -->
+  </div>
+  
+
+            <div id="top_bar" class="nav_bar vertical-s " >
+      <div class="wide_container_box wide_container">
+        <div id="top_bar_container" class="container">
+          <div id="top_bar_row" class="flex_container">
+            <nav id="nav_left" class="flex_float_left"><div class="flex_box"><!-- MODULE st stmultilink -->
+<!-- Block stlinkgroups top module -->
+    <div id="multilink_11" class="stlinkgroups_top dropdown_wrap first-item top_bar_item"><a href="https://naylampmechatronics.com/content/1-envios-entregas" title="Envío gratis a todo el Perú por compras mayores a S/200 [*condiciones]"  rel="nofollow"   class="dropdown_tri  header_item" aria-haspopup="true" aria-expanded="false"><span id="multilink_lable_11">Envío gratis a todo el Perú por compras mayores a S/200 [*condiciones]</span><i class="fto-angle-down arrow_down arrow"></i><i class="fto-angle-up arrow_up arrow"></i></a>            </div>
+<!-- /Block stlinkgroups top module -->
+<!-- /MODULE st stmultilink --></div></nav>
+            <nav id="nav_center" class="flex_float_center"><div class="flex_box"></div></nav>
+            <nav id="nav_right" class="flex_float_right"><div class="flex_box"><!-- MODULE st stcustomersignin -->
+		<span class="welcome top_bar_item "><span class="header_item">Bienvenido</span></span>				<a class="login top_bar_item header_icon_btn_1" href="https://naylampmechatronics.com/mi-cuenta" rel="nofollow" title="Acceda a su cuenta de cliente"><span class="header_item"><span class="header_icon_btn_text header_v_align_m">Iniciar sesión</span></span></a>
+		<!-- /MODULE st stcustomersignin --><!-- MODULE st stmultilink -->
+<!-- Block stlinkgroups top module -->
+    <div id="multilink_6" class="stlinkgroups_top dropdown_wrap first-item top_bar_item"><div class="dropdown_tri  dropdown_tri_in  header_item" aria-haspopup="true" aria-expanded="false"><span id="multilink_lable_6">Ayuda</span><i class="fto-angle-down arrow_down arrow"></i><i class="fto-angle-up arrow_up arrow"></i></div>                <div class="dropdown_list" aria-labelledby="multilink_lable_6">
+            <ul class="dropdown_list_ul dropdown_box custom_links_list ">
+    		    			<li>
+            		<a href="https://naylampmechatronics.com/contacto" class="dropdown_list_item" title="Contactactenos"  >
+                        Contactanos
+            		</a>
+    			</li>
+    		    			<li>
+            		<a href="https://naylampmechatronics.com/content/1-envios-entregas" class="dropdown_list_item" title="Envíos y Entregas"  >
+                        Envíos y Entregas
+            		</a>
+    			</li>
+    		    			<li>
+            		<a href="https://api.whatsapp.com/send/?phone=51997646858&amp;text&amp;app_absent=0" class="dropdown_list_item" title="997646858"  rel="nofollow"   target="_blank" >
+                        <i class="fto-whatsapp mar_r4"></i>997646858
+            		</a>
+    			</li>
+    		    		</ul>
+        </div>
+            </div>
+<!-- /Block stlinkgroups top module -->
+<!-- /MODULE st stmultilink -->
+<div class="ets_solo_social_wrapper hover slw_and_alw alw mobile">
+                    <div class="ets_solo_table">
+        <div class="ets_solo_tablecell">
+            <div class="ets_solo_tablecontent">
+                    <span class="ets_solo_account_close button" title="">
+                <span class="text_close">Cerrar</span>
+            </span>
+            <span class="ets_solo_account_close overlay">
+
+            </span>
+            <div class="ets_solo_wrapper_content slw_and_alw alw">
+
+                                <h3 class="ets_solo_social_title">
+                Inicia sesión con
+            </h3>
+                    
+                <ul class="ets_solo_social">
+                                                                                                                                    <li class="ets_solo_social_item item_type_name google active google_new_desginer"  data-auth="Google">
+
+                        <span class="ets_solo_social_btn medium rounded name">
+
+                                                                                                                <i class="svg_gl">
+                                <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="96px" height="96px">
+                                <path fill="#FFC107" d="M43.611,20.083H42V20H24v8h11.303c-1.649,4.657-6.08,8-11.303,8c-6.627,0-12-5.373-12-12c0-6.627,5.373-12,12-12c3.059,0,5.842,1.154,7.961,3.039l5.657-5.657C34.046,6.053,29.268,4,24,4C12.955,4,4,12.955,4,24c0,11.045,8.955,20,20,20c11.045,0,20-8.955,20-20C44,22.659,43.862,21.35,43.611,20.083z"/>
+                                <path fill="#FF3D00" d="M6.306,14.691l6.571,4.819C14.655,15.108,18.961,12,24,12c3.059,0,5.842,1.154,7.961,3.039l5.657-5.657C34.046,6.053,29.268,4,24,4C16.318,4,9.656,8.337,6.306,14.691z"/>
+                                <path fill="#4CAF50" d="M24,44c5.166,0,9.86-1.977,13.409-5.192l-6.19-5.238C29.211,35.091,26.715,36,24,36c-5.202,0-9.619-3.317-11.283-7.946l-6.522,5.025C9.505,39.556,16.227,44,24,44z"/>
+                                <path fill="#1976D2" d="M43.611,20.083H42V20H24v8h11.303c-0.792,2.237-2.231,4.166-4.087,5.571c0.001-0.001,0.002-0.001,0.003-0.002l6.19,5.238C36.971,39.205,44,34,44,24C44,22.659,43.862,21.35,43.611,20.083z"/>
+                                </svg>
+                                </i>
+                                                                                                                                                            Google                                                                    </span>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                    
+                            <div class="ets_solo_or"><span>O</span></div>
+            <section class="solo-login-form">
+                <form class="solo-login-form-alw" data-hook="alw" action="https://naylampmechatronics.com/module/ets_sociallogin/oauth" method="post">
+                    <section>
+                        <div class="form-group row ">
+                            <div class="col-md-12">
+                                <input class="form-control" name="email" value="" placeholder="Ingresa tu email..." required="" type="email">
+                            </div>
+                        </div>
+                        <div class="form-group row ">
+                            <div class="col-md-12">
+                                <input class="form-control js-child-focus js-visible-password" placeholder="Ingresa tu contraseña..." name="password" value="" pattern=".{5,}" required="" type="password">
+                            </div>
+                        </div>
+                    </section>
+                    <footer class="form-footer text-sm-center clearfix">
+                                                <input name="ajax" value="1" type="hidden">
+                        <input name="solo_submitLogin" value="1" type="hidden">
+                                                <button class="solo-submit-login-alw btn btn-primary" data-link-action="sign-in" type="submit">Iniciar sesión</button>
+                        <div class="forgot-password">
+                            <a href="https://naylampmechatronics.com/contrasena-olvidado" rel="nofollow">¿Olvidaste tu contraseña?</a>
+                        </div>
+                        <div class="no-account">
+                            <a href="https://naylampmechatronics.com/autenticacion?create_account=1" data-link-action="display-register-form">¿No tienes cuenta aún? Crea una cuenta</a>
+                        </div>
+                    </footer>
+                </form>
+            </section>
+                            </div>
+            </div>
+        </div>
+        </div>
+    </div>
+
+</div></nav>
+          </div>
+        </div>          
+      </div>
+    </div>
+  
+
+  <section id="mobile_bar" class="animated fast">
+    <div class="container">
+      <div id="mobile_bar_top" class="flex_container">
+                  <div id="mobile_bar_left">
+            <div class="flex_container">
+            	                            <a class="mobile_logo" href="https://naylampmechatronics.com/" title="Naylamp Mechatronics - Perú">
+              <img class="logo" src="https://media.naylampmechatronics.com/img/prestashop-logo-1628069096.jpg"  alt="Naylamp Mechatronics - Perú" width="100" height="28"/>
+            </a>
+        
+              	                <!-- MODULE st stsidebar -->
+<!-- /MODULE st stsidebar -->
+
+            </div>
+          </div>
+          <div id="mobile_bar_center" class="flex_child">
+            <div class="flex_container ">            	              <!-- MODULE st stsidebar -->
+<!-- /MODULE st stsidebar -->
+
+            </div>
+          </div>
+          <div id="mobile_bar_right">
+            <div class="flex_container"><!-- MODULE st stsidebar -->
+		<a id="rightbar_11" data-name="side_search" data-direction="open_bar_right"  href="javascript:;" class="mobile_bar_tri  search_mobile_bar_tri mobile_bar_item" rel="nofollow" title="Buscar">
+	    <i class="fto-search-2 fs_xl"></i>
+	    <span class="mobile_bar_tri_text">Buscar</span>
+	</a>
+		<a id="rightbar_12" rel="nofollow" title="Ver mi carrito de compra"  href="javascript:;" class="mobile_bar_tri  cart_mobile_bar_tri mobile_bar_item shopping_cart_style_2" data-name="side_products_cart" data-direction="open_bar_right">
+		<div class="ajax_cart_bag">
+			<span class="ajax_cart_quantity amount_circle ">0</span>
+			<span class="ajax_cart_bg_handle"></span>
+			<i class="fto-glyph fs_xl"></i>
+		</div>
+		<span class="mobile_bar_tri_text">Carro</span>
+	</a>
+	<a id="rightbar_10"  href="javascript:;" class="mobile_bar_tri  customer_mobile_bar_tri mobile_bar_item" data-name="side_mobile_nav" data-direction="open_bar_right" rel="nofollow" title="Ajustes">
+	    <i class="fto-user-1 fs_xl"></i>
+	    <span class="mobile_bar_tri_text">Ajustes</span>
+	</a>
+	<a id="rightbar_9"  href="javascript:;" class="mobile_bar_tri  menu_mobile_bar_tri mobile_bar_item  " data-name="side_stmobilemenu" data-direction="open_bar_right" rel="nofollow" title="Menú">
+	    <i class="fto-menu fs_xl"></i>
+	    <span class="mobile_bar_tri_text">Menú</span>
+	</a>
+<!-- /MODULE st stsidebar -->
+</div>
+          </div>
+      </div>
+      <div id="mobile_bar_bottom" class="flex_container">
+        <!-- MODULE st stsidebar -->
+<!-- /MODULE st stsidebar -->
+
+      </div>
+    </div>
+  </section>
+
+
+    <div id="header_primary" class="">
+    <div class="wide_container_box wide_container">
+      <div id="header_primary_container" class="container">
+        <div id="header_primary_row" class="flex_container  logo_left ">
+                                  <div id="header_left" class="">
+            <div class="flex_container header_box  flex_left ">
+                                        <div class="logo_box">
+          <div class="slogan_horizon">
+            <a class="shop_logo" href="https://naylampmechatronics.com/" title="Naylamp Mechatronics - Perú">
+                <img class="logo" src="https://media.naylampmechatronics.com/img/prestashop-logo-1628069096.jpg"  alt="Naylamp Mechatronics - Perú" width="100" height="28"/>
+            </a>
+                      </div>
+                  </div>
+        
+                                        </div>
+          </div>
+            <div id="header_center" class="">
+              <div class="flex_container header_box  flex_center ">
+                                          </div>
+            </div>
+          <div id="header_right" class="">
+            <div id="header_right_top" class="flex_container header_box  flex_right ">
+                <!-- MODULE st stsearchbar -->
+<div class="search_widget_block  stsearchbar_builder top_bar_item ">
+<div class="search_widget" data-search-controller-url="//naylampmechatronics.com/buscar">
+	<form method="get" action="//naylampmechatronics.com/buscar" class="search_widget_form">
+		<input type="hidden" name="controller" value="search">
+		<div class="search_widget_form_inner input-group round_item js-parent-focus input-group-with-border">
+	      <input type="text" class="form-control search_widget_text js-child-focus" name="s" value="" placeholder="Buscar en catalogo">
+	      <span class="input-group-btn">
+	        <button class="btn btn-search btn-no-padding btn-spin search_widget_btn link_color icon_btn" type="submit"><i class="fto-search-1"></i></button>
+	      </span>
+	    </div>
+
+	</form>
+	<div class="search_results  search_show_img  search_show_name  search_show_price "></div>
+	<a href="javascript:;" title="Más productos." rel="nofollow" class="display_none search_more_products go">Haga clic para más productos.</a>
+	<div class="display_none search_no_products">No se encontraron productos.</div>
+</div>
+</div>
+<!-- /MODULE st stsearchbar -->
+<!-- MODULE st stshoppingcart -->
+<div class="blockcart dropdown_wrap top_bar_item shopping_cart_style_2  clearfix" data-refresh-url="//naylampmechatronics.com/module/stshoppingcart/ajax"><a href="//naylampmechatronics.com/carro-de-la-compra?action=show" title="Ver mi carrito de compra" rel="nofollow" class="st_shopping_cart dropdown_tri header_item " data-name="side_products_cart" data-direction="open_bar_right"><span class="header_icon_btn_icon header_v_align_m  mar_r4 "><i class="fto-glyph icon_btn"></i></span><span class="header_icon_btn_text header_v_align_m"><span class="ajax_cart_quantity mar_r4">0</span><span class="ajax_cart_product_txt mar_r4">artículo(s)</span></span></a><div class="dropdown_list cart_body  no_show_empty "><div class="dropdown_box">      <div class="shoppingcart-list">
+              <div class="cart_empty">Su carrito de compras está vacío.</div>
+            </div></div></div></div><!-- /MODULE st stshoppingcart -->
+            </div>
+                <div id="header_right_bottom" class="flex_container header_box  flex_right ">
+                                </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="nav_full_container "></div>
+
+
+  <div id="easymenu_container" class="easymenu_bar"></div>
+              <section id="top_extra" class="main_menu_has_widgets_0">
+      <div class="">
+      <div class="st_mega_menu_container animated fast">
+      <div class="container">
+        <div id="top_extra_container" class="flex_container ">
+            <!-- MODULE st stmegamenu -->
+	<nav id="st_mega_menu_wrap" class="">
+		<ul class="st_mega_menu clearfix mu_level_0">
+								<li id="st_menu_6" class="ml_level_0 m_alignment_0">
+			<a id="st_ma_6" href="javascript:;" class="ma_level_0 is_parent" title="Productos"><i class="fto-menu"></i>Productos</a>
+								<div class="stmenu_sub style_wide col-md-12">
+		<div class="row m_column_row">
+																			<div id="st_menu_column_4" class="col-md-2-4">
+																											<div id="st_menu_block_7">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_7" href="https://naylampmechatronics.com/12-ardusystem" title="Ardusystem"  class="ma_level_1 ma_item">Ardusystem</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/159-arduino-original" title="Arduino Original" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Arduino Original</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/130-kits-de-aprendizaje" title="Kits de aprendizaje" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Kits de aprendizaje</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/15-ardusystem-accesorios" title="Accesorios" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/14-ardusystem-shields" title="Shields" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Shields</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/13-ardusystem-tarjetas" title="Tarjetas" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Tarjetas</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_9">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_9" href="https://naylampmechatronics.com/19-raspberry-pi" title="Raspberry Pi"  class="ma_level_1 ma_item">Raspberry Pi</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/20-tarjetas-raspberrypi" title="Tarjetas" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Tarjetas</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/21-accesorios-raspberry" title="Accesorios" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_8">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_8" href="https://naylampmechatronics.com/29-microcontroladores" title="Microcontroladores"  class="ma_level_1 ma_item">Microcontroladores</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/23-programadores" title="Programadores" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Programadores</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/190-rp2040" title="RP2040" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>RP2040</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/93-risc-v" title="RISC-V" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>RISC-V</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/47-atmel" title="Atmel AVR" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Atmel AVR</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/84-espressif-esp" title="Espressif ESP" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Espressif ESP</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/77-cpld-y-fpga" title="CPLD y FPGA" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>CPLD y FPGA</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/167-mcu-accesorios" title="Accesorios" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_19">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_19" href="https://naylampmechatronics.com/80-circuitos-integrados" title="Circuitos Integrados"  class="ma_level_1 ma_item">Circuitos Integrados</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/192-serie-7400" title="Serie 7400" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Serie 7400</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/193-microcontroladores" title="Microcontroladores" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Microcontroladores</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/169-conversores" title="Conversores" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Conversores</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/81-multiplexores" title="Multiplexores" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Multiplexores</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/168-senal-analogica" title="Señal analógica" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Señal analógica</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																		</div>
+																				<div id="st_menu_column_5" class="col-md-2-4">
+																											<div id="st_menu_block_10">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_10" href="https://naylampmechatronics.com/16-sensores" title="Sensores"  class="ma_level_1 ma_item">Sensores</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/40-sensores-liquido" title="Liquidos" class="ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Liquidos<span class="is_parent_icon"><b class="is_parent_icon_h"></b><b class="is_parent_icon_v"></b></span></a>
+						</div>
+							<ul class="mu_level_3 p_granditem_0">
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/136-nivel" title="Nivel" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Nivel</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/137-flujo-caudal" title="Flujo/Caudal" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Flujo/Caudal</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/138-presion" title="Presión" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Presión</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/38-sensores-proximidad" title="Proximidad" class="ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Proximidad<span class="is_parent_icon"><b class="is_parent_icon_h"></b><b class="is_parent_icon_v"></b></span></a>
+						</div>
+							<ul class="mu_level_3 p_granditem_0">
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/155-capacitivos" title="Capacitivos" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Capacitivos</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/156-inductivos" title="Inductivos" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Inductivos</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/157-opticos" title="Opticos" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Opticos</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/158-ultrasonido" title="Ultrasonido" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Ultrasonido</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/154-distancia" title="Distancia" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Distancia</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/36-sensores-gas" title="Gas" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Gas</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/94-fuerza-peso" title="Fuerza y Peso" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Fuerza y Peso</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/41-sensores-corriente-voltaje" title="Corriente y voltaje" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Corriente y voltaje</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/48-sensores-varios" title="Otros" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Otros</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/57-sensores-posicion-inerciales-gps" title="Posición, Inerciales, GPS" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Posición, Inerciales, GPS</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/39-sensores-luz-y-sonido" title="Luz y sonido" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Luz y sonido</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/37-sensores-temperatura-y-humedad" title="Temperatura y humedad" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Temperatura y humedad</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/60-biometria" title="Biometría" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Biometría</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/83-camaras" title="Camaras" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Camaras</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/61-biomedico" title="Biomédico" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Biomédico</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_11">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_11" href="https://naylampmechatronics.com/17-actuadores" title="Actuadores"  class="ma_level_1 ma_item">Actuadores</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/135-bombas-de-agua" title="Bombas de agua" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Bombas de agua</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/25-motores-dc" title="Motores DC" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Motores DC</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/58-motores-pap-steppers" title="Motores PaP Steppers" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Motores PaP Steppers</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/106-ventiladores-dc" title="Ventiladores DC" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Ventiladores DC</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/151-accesorios" title="Accesorios" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/121-motores-brushless" title="Motores Brushless" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Motores Brushless</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/26-servomotores" title="Servomotores" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Servomotores</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/27-termicos" title="Térmicos" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Térmicos</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/59-valvulas" title="Válvulas" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Válvulas</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																		</div>
+																				<div id="st_menu_column_6" class="col-md-2-4">
+																											<div id="st_menu_block_12">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_12" href="https://naylampmechatronics.com/30-impresion-3d" title="Impresión 3D"  class="ma_level_1 ma_item">Impresión 3D</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/78-impresoras-3d-fdm-fff" title="Impresoras 3D FDM/FFF" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Impresoras 3D FDM/FFF</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/108-impresoras-3d-sla" title="Impresoras 3D SLA" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Impresoras 3D SLA</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/109-consumibles" title="Consumibles" class="ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Consumibles<span class="is_parent_icon"><b class="is_parent_icon_h"></b><b class="is_parent_icon_v"></b></span></a>
+						</div>
+							<ul class="mu_level_3 p_granditem_0">
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/120-resinas" title="Resinas" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Resinas</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/119-filamentos" title="Filamentos" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Filamentos</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/111-repuestos-y-accesorios" title="Repuestos y Accesorios" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Repuestos y Accesorios</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_13">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_13" href="https://naylampmechatronics.com/62-v-slot" title="V-Slot"  class="ma_level_1 ma_item">V-Slot</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/70-perfiles-de-aluminio" title="Perfiles de aluminio" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Perfiles de aluminio</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/72-tornillos-y-tuercas" title="Tornillos y Tuercas" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Tornillos y Tuercas</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/71-conectores" title="Conectores" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Conectores</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/73-placas" title="Placas" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Placas</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/74-movimiento" title="Movimiento" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Movimiento</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/82-accesorios" title="Accesorios" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_32">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_32" href="https://naylampmechatronics.com/110-cnc-open-source-hw" title="CNC Open Source Hw"  class="ma_level_1 ma_item">CNC Open Source Hw</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/68-electronica" title="Electrónica" class="ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Electrónica<span class="is_parent_icon"><b class="is_parent_icon_h"></b><b class="is_parent_icon_v"></b></span></a>
+						</div>
+							<ul class="mu_level_3 p_granditem_0">
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/184-control-cnc" title="Control" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Control</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/65-drivers-cnc" title="Drivers" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Drivers</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/185-sensores-cnc" title="Sensores CNC" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Sensores CNC</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/66-fuentes-de-poder-cnc" title="Fuentes de poder" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes de poder</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/64-motores" title="Motores" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Motores</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/139-transmision-movimiento" title="Transmisión" class="ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Transmisión<span class="is_parent_icon"><b class="is_parent_icon_h"></b><b class="is_parent_icon_v"></b></span></a>
+						</div>
+							<ul class="mu_level_3 p_granditem_0">
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/163-correa-dentada" title="Correa Dentada" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Correa Dentada</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/164-tornillo-de-potencia" title="Tornillo de potencia" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Tornillo de potencia</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/63-guias-lineales" title="Guías Lineales" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Guías Lineales</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/69-rodamientos" title="Rodamientos" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Rodamientos</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/67-accesorios-mecanicos" title="Accesorios Mecánicos" class="ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Accesorios Mecánicos<span class="is_parent_icon"><b class="is_parent_icon_h"></b><b class="is_parent_icon_v"></b></span></a>
+						</div>
+							<ul class="mu_level_3 p_granditem_0">
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/166-brackets" title="Brackets" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Brackets</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/161-acoples" title="Acoples" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Acoples</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/165-poleas" title="Poleas" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Poleas</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/98-accesorios-electronicos" title="Accesorios Electrónicos" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios Electrónicos</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/123-herramientas" title="Herramientas" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Herramientas</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																		</div>
+																				<div id="st_menu_column_7" class="col-md-2-4">
+																											<div id="st_menu_block_14">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_14" href="https://naylampmechatronics.com/43-comunicacion" title="Comunicación"  class="ma_level_1 ma_item">Comunicación</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/95-rfid-nfc" title="RFID/NFC" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>RFID/NFC</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/22-inalambrico" title="Inalambrico" class="ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Inalambrico<span class="is_parent_icon"><b class="is_parent_icon_h"></b><b class="is_parent_icon_v"></b></span></a>
+						</div>
+							<ul class="mu_level_3 p_granditem_0">
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/170-bluetooth" title="Bluetooth" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Bluetooth</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/171-wifi" title="WiFi" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>WiFi</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/172-lora" title="LoRa" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>LoRa</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/173-rf" title="RF" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>RF</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/174-gsm-4g" title="GSM/4G" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>GSM/4G</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/175-infrarrojo" title="Infrarrojo" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Infrarrojo</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/44-alambrico" title="Alámbrico" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Alámbrico</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/45-conversores-ttl" title="Conversores TTL" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Conversores TTL</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_15">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_15" href="https://naylampmechatronics.com/34-fuentes-y-reguladores" title="Fuentes y reguladores"  class="ma_level_1 ma_item">Fuentes y reguladores</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/76-fuentes-switching-ac-dc" title="Fuentes Switching AC-DC" class="ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Fuentes Switching AC-DC<span class="is_parent_icon"><b class="is_parent_icon_h"></b><b class="is_parent_icon_v"></b></span></a>
+						</div>
+							<ul class="mu_level_3 p_granditem_0">
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/145-fuentes-usb" title="Fuentes USB" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes USB</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/146-fuentes-embebidas" title="Fuentes Embebidas" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes Embebidas</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/147-fuentes-1a-2a" title="Fuentes 1A-2A" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes 1A-2A</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/148-fuentes-jack-dc" title="Fuentes Jack-DC" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes Jack-DC</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/150-fuentes-industrial-din" title="Fuentes Industrial DIN" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes Industrial DIN</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/149-fuentes-industrial-metal" title="Fuentes Industrial metal" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes Industrial metal</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/75-conversores-dc-dc" title="Conversores DC-DC" class="ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Conversores DC-DC<span class="is_parent_icon"><b class="is_parent_icon_h"></b><b class="is_parent_icon_v"></b></span></a>
+						</div>
+							<ul class="mu_level_3 p_granditem_0">
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/181-elevador-step-up-boost" title="Elevador/Step-up/Boost" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Elevador/Step-up/Boost</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/182-reductor-step-down-buck" title="Reductor/Step-down/Buck" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Reductor/Step-down/Buck</a>
+						</div>
+				</li>
+					<li class="ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/183-elevador-reductor-step-up-down-boost-buck" title="Elevador-Reductor/Step-up-down/Boost-Buck" class="ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Elevador-Reductor/Step-up-down/Boost-Buck</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/85-generadores-dc" title="Generadores DC" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Generadores DC</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_25">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_25" href="https://naylampmechatronics.com/42-drivers" title="Drivers"  class="ma_level_1 ma_item">Drivers</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/87-driver-pap-stepper" title="Driver PaP Stepper" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Driver PaP Stepper</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/90-ssr-solid-state-relay" title="SSR Solid State Relay" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>SSR Solid State Relay</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/89-relay" title="Relay" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Relay</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/88-mosfet-dc" title="Mosfet DC" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Mosfet DC</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/86-puente-h" title="Puente H (H-bridge)" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Puente H (H-bridge)</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_27">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_27" href="https://naylampmechatronics.com/33-displays" title="Displays"  class="ma_level_1 ma_item">Displays</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/126-lcd-alfanumerico" title="LCD alfanumérico" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>LCD alfanumérico</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/128-oled" title="OLED" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>OLED</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/129-led" title="LED" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>LED</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/127-lcd-color" title="LCD color" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>LCD color</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_22">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_22" href="https://naylampmechatronics.com/46-interfaz-de-usuario" title="Interfaz de usuario"  class="ma_level_1 ma_item">Interfaz de usuario</a>
+																			</li>
+								</ul>	
+							</div>
+																		</div>
+																				<div id="st_menu_column_8" class="col-md-2-4">
+																											<div id="st_menu_block_24">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_24" href="https://naylampmechatronics.com/28-robotica" title="Robótica"  class="ma_level_1 ma_item">Robótica</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/53-robotica-movil" title="Móvil" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Móvil</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/55-brazo-robotico" title="Brazo" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Brazo</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/52-drone-uav-vant" title="Drones" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Drones</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/54-robots-bipedos" title="Bípedos" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Bípedos</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_17">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_17" href="https://naylampmechatronics.com/35-accesorios-y-prototipado" title="Accesorios y Prototipado"  class="ma_level_1 ma_item">Accesorios y Prototipado</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/97-protoboard" title="Protoboard" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Protoboard</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/103-resistencias" title="Resistencias" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Resistencias</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/104-condensadores" title="Condensadores" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Condensadores</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/194-diodos" title="Diodos" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Diodos</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/105-transistor" title="Transistor" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Transistor</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/153-interruptores-switchs" title="Interruptores/Switchs" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Interruptores/Switchs</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/152-pulsadores" title="Pulsadores" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Pulsadores</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/96-cables" title="Cables" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Cables</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/125-conectores-electricos" title="Conectores eléctricos" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Conectores eléctricos</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/180-headers" title="Headers" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Headers</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_20">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_20" href="https://naylampmechatronics.com/24-kits" title="Kits"  class="ma_level_1 ma_item">Kits</a>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_16">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_16" href="https://naylampmechatronics.com/92-instrumentos-y-equipos-de-laboratorio" title="Instrumentos y equipos de laboratorio"  class="ma_level_1 ma_item">Instrumentos y equipos de laboratorio</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/112-multimetros" title="Multímetros" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Multímetros</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/113-pinzas-amperimetricas" title="Pinzas Amperimétricas" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Pinzas Amperimétricas</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/115-generadores-de-senal" title="Generadores de señal" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Generadores de señal</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_21">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_21" href="https://naylampmechatronics.com/91-herramientas" title="Herramientas"  class="ma_level_1 ma_item">Herramientas</a>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_18">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_18" href="https://naylampmechatronics.com/56-baterias" title="Baterías"  class="ma_level_1 ma_item">Baterías</a>
+																																													<ul class="mu_level_2 p_granditem_1">
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/99-cargador" title="Cargador" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Cargador</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/102-accesorios" title="Accesorios" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/100-li-po" title="Li-Po" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Li-Po</a>
+						</div>
+				</li>
+					<li class="ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/101-alcalina" title="Alcalina" class="ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Alcalina</a>
+						</div>
+				</li>
+		</ul>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_23">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_23" href="https://naylampmechatronics.com/49-luces-iluminacion" title="Luces e iluminación"  class="ma_level_1 ma_item">Luces e iluminación</a>
+																			</li>
+								</ul>	
+							</div>
+																																						<div id="st_menu_block_26">
+																<ul class="mu_level_1">
+									<li class="ml_level_1">
+										<a id="st_ma_26" href="https://naylampmechatronics.com/50-almacenamiento" title="Almacenamiento"  class="ma_level_1 ma_item">Almacenamiento</a>
+																			</li>
+								</ul>	
+							</div>
+																		</div>
+							</div>
+	</div>
+						</li>
+									<li id="st_menu_2" class="ml_level_0 m_alignment_0">
+			<a id="st_ma_2" href="javascript:;" class="ma_level_0 is_parent" title="Impresión 3D">Impresión 3D</a>
+								<div class="stmenu_sub style_wide col-md-12">
+		<div class="row m_column_row">
+																			<div id="st_menu_column_1" class="col-md-3">
+																				<div id="st_menu_block_3" class="style_content">
+							<p>Gran selección de productos para fabricación digital aditiva, desarrolla tu creatividad</p>
+<p></p>
+						</div>
+												</div>
+																				<div id="st_menu_column_2" class="col-md-3">
+																				<div id="st_menu_block_4" class="style_content">
+							<p><a href="https://naylampmechatronics.com/78-impresoras-3d-fdm-fff" title="Panda theme" rel="nofollow"><img src="https://naylampmechatronics.com/img/cms/Megamenu/filamentPrinter.jpg" alt="Impresoras de filamento" width="352" height="104" /></a></p>
+<h5 style="font-family: 'Share Tech'; font-weight: 400;"><a href="https://naylampmechatronics.com/78-impresoras-3d-fdm-fff">Impresoras FMD</a></h5>
+						</div>
+												</div>
+																				<div id="st_menu_column_3" class="col-md-3">
+																				<div id="st_menu_block_5" class="style_content">
+							<p><a href="https://naylampmechatronics.com/108-impresoras-3d-sla" title="Panda theme" rel="nofollow"><img src="https://naylampmechatronics.com/img/cms/Megamenu/resinPrinter.jpg" alt="Impresoras de resina" width="352" height="104" /></a></p>
+<h5 style="font-family: 'Share Tech'; font-weight: 400;"><a href="https://naylampmechatronics.com/108-impresoras-3d-sla">Impresoras de resina</a></h5>
+						</div>
+												</div>
+																				<div id="st_menu_column_9" class="col-md-3">
+																				<div id="st_menu_block_31" class="style_content">
+							<p><a href="https://naylampmechatronics.com/109-consumibles" title="Panda theme" rel="nofollow"><img src="https://naylampmechatronics.com/img/cms/Megamenu/consumibles.jpg" alt="Consumibles" width="352" height="104" /></a></p> <h5 style="font-family: 'Share Tech'; font-weight: 400;"><a href="https://naylampmechatronics.com/109-consumibles">Consumibles y accesorios</a></h5>
+						</div>
+												</div>
+							</div>
+	</div>
+						</li>
+									<li id="st_menu_28" class="ml_level_0 m_alignment_0">
+			<a id="st_ma_28" href="https://naylampmechatronics.com/content/6-tutoriales-y-proyectos-con-arduino" class="ma_level_0" title="Tutoriales y Proyectos con Arduino">Tutoriales</a>
+					</li>
+									<li id="st_menu_29" class="ml_level_0 m_alignment_0">
+			<a id="st_ma_29" href="https://naylampmechatronics.com/blog/3-noticias" class="ma_level_0" title="Noticias">Noticias</a>
+					</li>
+			</ul>	</nav>
+<!-- /MODULE st stmegamenu -->                    </div>
+      </div>
+      </div>
+      </div> 
+  </section>
+  		
+	  </header>
+	  </div>
+	  
+		
+		<div class="breadcrumb_spacing"></div>	  
+	  
+		<aside id="notifications">
+  <div class="container">
+    
+    
+    
+      </div>
+</aside>
+	  
+
+	  
+		  <div class="full_width_top_container"><!-- MODULE st swiper -->
+    <!--/ MODULE st swiper --></div>
+		  <div class="full_width_top2_container"></div>
+		  <div class="wrapper_top_container"></div>
+	  
+
+	  <section id="wrapper" class="columns-container">
+		<div id="columns" class="container">
+		  <div class="row">
+
+									
+			
+
+			
+
+			
+  <div id="center_column" class="single_column col-sm-12">
+    
+
+  <section id="main">
+        
+      
+        <h3 class="page_heading">
+          
+        </h3>
+      
+    
+
+    
+  <section id="content" class="page-content page-not-found">
+  
+
+    
+      
+    
+    
+    
+      
+    
+
+  
+</section>
+
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+  </div>
+
+		  </div>
+		</div>
+	  </section>
+	  	
+		  <div class="full_width_bottom_container"></div>
+		  <div class="wrapper_bottom_container"></div>
+		
+		
+		  
+<footer id="footer" class="footer-container">
+    <div id="footer_before_container"></div>
+    
+	    
+    
+            <section id="footer-secondary">
+		<div class="wide_container_box wide_container">
+			<div id="footer-secondary-container" class="container">
+                <div class="row footer_first_level_row">
+				    <!-- MODULE st stnewsletter -->
+    		<section id="st_news_letter_2" class="st_news_letter_2  footer_block block  col-lg-9 ">
+		        		<div class="title_block flex_container title_align_0">
+                <div class="flex_child title_flex_left"></div>
+                <div class="title_block_inner">Hoja informativa</div>
+                <div class="flex_child title_flex_right"></div>
+                <div class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></div></div>
+						<div class="footer_block_content  ">
+				<div class="st_news_letter_box">
+                <div class="alert alert-danger hidden"></div>
+                <div class="alert alert-success hidden"></div>
+                <div class="news_letter_1  flex_container flex_column_md  flex_left  text-md-2 ">
+            	<div class="st_news_letter_content style_content flex_child_md  mar_r10 "><h3>BOLETIN</h3>
+<p class="m-b-1">Regístrate en nuestro boletín para recibir las últimas ofertas y novedades.</p></div>            	            	<form action="https://naylampmechatronics.com/module/stnewsletter/ajax" method="post" class="st_news_letter_form flex_child">
+                                        <label class="gdpr_consent flex_container flex_start gdpr_module_86">
+    <span class="custom-input-box">
+        <input class="custom-input psgdpr_consent_checkbox_86" name="psgdpr_consent_checkbox" type="checkbox" value="1">
+        <span class="custom-input-item custom-input-checkbox"><i class="fto-ok-1 checkbox-checked"></i></span>
+    </span>
+    <div class="psgdpr_consent_message flex_child">
+        Acepto los términos y condiciones y la política de privacidad    </div>
+</label>
+
+
+<script type="text/javascript">
+    var psgdpr_front_controller = "https://naylampmechatronics.com/module/psgdpr/FrontAjaxGdpr";
+    psgdpr_front_controller = psgdpr_front_controller.replace(/\amp;/g,'');
+    var psgdpr_id_customer = "0";
+    var psgdpr_customer_token = "da39a3ee5e6b4b0d3255bfef95601890afd80709";
+    var psgdpr_id_guest = "0";
+    var psgdpr_guest_token = "e710ed49f4159abdb64d54a6546e0f2c66432a7f";
+    if(typeof psgdpr_loaded=='undefined')
+        var psgdpr_loaded = false;
+
+    window.addEventListener('load', function() {
+        if(!psgdpr_loaded){
+            psgdpr_loaded = true;
+        var psgdpr_id_module = "86";
+        // var parentForm = $('.gdpr_module_' + psgdpr_id_module).closest('form');
+
+        var toggleFormActive = function() {
+            $('input[name=psgdpr_consent_checkbox]').each(function(){
+                var parentForm = $(this).closest('form');
+                if ($(this).prop('checked') == true) {
+                    parentForm.find('[type="submit"]').removeAttr('disabled');
+                } else {
+                    parentForm.find('[type="submit"]').attr('disabled', 'disabled');
+                }
+            });
+        }
+
+        // Triggered on page loading
+        toggleFormActive();
+
+        $('body').on('change', function(){
+            // Triggered after the dom might change after being loaded
+            toggleFormActive();
+
+            // Listener ion the checkbox click
+            $(document).on("click" , "input[name=psgdpr_consent_checkbox]", function() {
+                toggleFormActive();
+            });
+
+            $('input[name=psgdpr_consent_checkbox]').each(function(){
+                var parentForm = $(this).closest('form');
+
+            $(document).on('submit', parentForm, function(event) {
+                $.ajax({
+                    data: 'POST',
+                    //dataType: 'JSON',
+                    url: psgdpr_front_controller,
+                    data: {
+                        ajax: true,
+                        action: 'AddLog',
+                        id_customer: psgdpr_id_customer,
+                        customer_token: psgdpr_customer_token,
+                        id_guest: psgdpr_id_guest,
+                        guest_token: psgdpr_guest_token,
+                        id_module: psgdpr_id_module,
+                    },
+                    success: function (data) {
+                        // parentForm.submit();
+                    },
+                    error: function (err) {
+                        console.log(err);
+                    }
+                });
+            });
+
+            });
+        });
+        }
+    });
+</script>
+
+
+					<div class="st_news_letter_form_inner">
+						<div class="input-group round_item js-parent-focus input-group-with-border" >
+							<input class="form-control st_news_letter_input js-child-focus" type="text" name="email" value="" placeholder="Tu correo electrónico" />
+			                <span class="input-group-btn">
+			                	<button type="submit" name="submitStNewsletter" class="btn btn-less-padding st_news_letter_submit link_color">
+				                    <i class="fto-mail-alt"></i>
+				                </button>
+			                </span>
+						</div>
+					</div>
+					<input type="hidden" name="action" value="0" />
+                    <input type="hidden" name="submitNewsletter" value="1" />
+				</form>
+				                </div>
+				</div>
+			</div>
+		</section>
+    <!-- /MODULE st stnewsletter --><!-- MODULE st steasycontent -->
+        <section id="easycontent_10" class=" easycontent col-lg-3 footer_block block ">
+            	<div class="style_content footer_block_content  keep_open  ">
+                        <!-- MODULE st easy content -->
+            		<div id="steasy_column_13" class="row ">
+        		        	 
+                                	            <div id="steasy_column_14" class="col-lg- col-sm- col- steasy_column " >
+    					                	<div class="steasy_element_block"><div class="stsocial_block  text-3   text-md-2 ">  
+<ul class="clearfix stsocial_1_1 stsocial_list">  
+	<li class="">
+		<a href="https://wa.me/51997646858" id="stsocial_item_22" rel="nofollow"   target="_blank"  class="flex_box">
+			<div class="social_wrap"><i class="fto-whatsapp"></i></div>
+			<div class="social_header flex_child"></div>
+		</a>
+	</li>
+	<li class="">
+		<a href="https://www.facebook.com/naylampmechatronics/" id="stsocial_item_21" rel="nofollow"   target="_blank"  class="flex_box">
+			<div class="social_wrap"><i class="fto-facebook-squared"></i></div>
+			<div class="social_header flex_child"></div>
+		</a>
+	</li>
+	<li class="">
+		<a href="https://www.instagram.com/naylamp.mechatronics/" id="stsocial_item_23" rel="nofollow"   target="_blank"  class="flex_box">
+			<div class="social_wrap"><i class="fto-instagram-1"></i></div>
+			<div class="social_header flex_child"></div>
+		</a>
+	</li>
+</ul>
+</div></div>
+            			            </div>
+	        		</div>
+           
+         
+<!-- MODULE st easy content -->    	</div>
+    </section>
+    <!-- /MODULE st steasycontent --><!-- MODULE st stblogfeaturedarticles -->
+<!-- /MODULE st stblogfeaturedarticles -->
+                </div>
+			</div>
+        </div>
+    </section>
+        
+    
+            <section id="footer-tertiary">
+		<div class="wide_container_box wide_container">
+			<div id="footer-tertiary-container" class="container">
+                <div class="row footer_first_level_row">
+                	<!-- MODULE st stmultilink -->
+<section id="multilink_7" class="stlinkgroups_links_footer col-lg-2-4 footer_block block ">
+        <div class="title_block ">
+        <div class="title_block_inner">        Soporte
+        </div>        <div class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></div>
+    </div>
+        <ul class="footer_block_content bullet custom_links_list ">
+            	<li>
+    		
+<a href="https://naylampmechatronics.com/contacto" class="dropdown_list_item  stmultilink_item_19" title="Contactactenos"  >
+    Contactanos
+</a>
+        	</li>
+        	<li>
+    		
+<a href="https://naylampmechatronics.com/mapa-del-sitio" class="dropdown_list_item  stmultilink_item_20" title="Mapa del sitio"  >
+    Mapa del sitio
+</a>
+        	</li>
+        	<li>
+    		
+<a href="https://naylampmechatronics.com/content/1-envios-entregas" class="dropdown_list_item  stmultilink_item_30" title="Envíos y Entregas"  rel="nofollow"   target="_blank" >
+    Envíos y Entregas
+</a>
+        	</li>
+        	<li>
+    		
+<a href="https://naylampmechatronics.com/content/5-metodos-de-pago" class="dropdown_list_item  stmultilink_item_31" title="Métodos de Pago"  rel="nofollow"   target="_blank" >
+    Métodos de Pago
+</a>
+        	</li>
+        	<li>
+    		
+<a href="https://naylampmechatronics.com/content/3-condiciones-de-uso" class="dropdown_list_item  stmultilink_item_32" title="Condiciones de uso"  rel="nofollow"   target="_blank" >
+    Condiciones de uso
+</a>
+        	</li>
+            </ul>
+</section>
+<section id="multilink_8" class="stlinkgroups_links_footer col-lg-2-4 footer_block block ">
+        <div class="title_block ">
+        <div class="title_block_inner">        Catálogo
+        </div>        <div class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></div>
+    </div>
+        <ul class="footer_block_content bullet custom_links_list ">
+            	<li>
+    		
+<a href="https://naylampmechatronics.com/promocion" class="dropdown_list_item  stmultilink_item_21" title="Promociones especiales"  >
+    Promociones especiales
+</a>
+        	</li>
+        	<li>
+    		
+<a href="https://naylampmechatronics.com/nuevos-productos" class="dropdown_list_item  stmultilink_item_22" title="Nuevos productos"  >
+    Nuevos productos
+</a>
+        	</li>
+        	<li>
+    		
+<a href="https://naylampmechatronics.com/mas-vendidos" class="dropdown_list_item  stmultilink_item_23" title="¡Lo más vendido!"  >
+    ¡Lo más vendido!
+</a>
+        	</li>
+            </ul>
+</section>
+<section id="multilink_9" class="stlinkgroups_links_footer col-lg-2-4 footer_block block ">
+        <div class="title_block ">
+        <div class="title_block_inner">        Mi Cuenta
+        </div>        <div class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></div>
+    </div>
+        <ul class="footer_block_content bullet custom_links_list ">
+            	<li>
+    		
+<a href="https://naylampmechatronics.com/mi-cuenta" class="dropdown_list_item  stmultilink_item_24" title="ver mi cuenta de cliente"  >
+    Mi cuenta
+</a>
+        	</li>
+        	<li>
+    		
+<a href="https://naylampmechatronics.com/historial-de-pedidos" class="dropdown_list_item  stmultilink_item_25" title="Mis pedidos"  >
+    Mis ordenes
+</a>
+        	</li>
+        	<li>
+    		
+<a href="https://naylampmechatronics.com/direcciones" class="dropdown_list_item  stmultilink_item_26" title="Mis direcciones"  >
+    Mis direcciones
+</a>
+        	</li>
+            </ul>
+</section>
+<!-- /MODULE st stmultilink -->
+<!-- MODULE st steasycontent -->
+        <section id="easycontent_11" class=" easycontent col-lg-4 footer_block block ">
+                <div class="title_block">
+            <div class="title_block_inner">            Información De Contacto
+            </div>            <div class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></div>
+        </div>
+            	<div class="style_content footer_block_content   ">
+                        <!-- MODULE st easy content -->
+            		<div id="steasy_column_15" class="row ">
+        		        	 
+                                	            <div id="steasy_column_16" class="col-lg- col-sm- col- steasy_column " >
+    					                	<div class="steasy_element_block"><div class="row">
+ 
+             
+    <div id="steasy_element_24" class="col-lg- steasy_element_1 ">
+    	<div class="steasy_element_item text-0 ">
+		    	<div class="easy_icon_with_text_4_1 flex_container flex_start">
+	<em class="fto-location-2 easy_icon fs_md color_444"><span class="unvisible">&nbsp;</span></em>
+	<div class="flex_child">
+        				<div class="easy_text  pad_b6">Urb. Ingeniería Mz-E Lt-31, Trujillo, Trujillo, La Libertad, Peru</div>			</div>
+</div>    	</div>
+    </div>
+        	</div><div class="row">
+    	             
+    <div id="steasy_element_25" class="col-lg- steasy_element_1 ">
+    	<div class="steasy_element_item text-0 ">
+		    	<div class="easy_icon_with_text_4_1 flex_container flex_start">
+	<em class="fto-at-1 easy_icon fs_md color_444"><span class="unvisible">&nbsp;</span></em>
+	<div class="flex_child">
+        				<div class="easy_text  pad_b6">contacto@naylampmechatronics.com</div>			</div>
+</div>    	</div>
+    </div>
+        	</div><div class="row">
+    	             
+    <div id="steasy_element_26" class="col-lg- steasy_element_1 ">
+    	<div class="steasy_element_item text-0 ">
+		    	<div class="easy_icon_with_text_4_1 flex_container flex_start">
+	<em class="fto-phone easy_icon fs_md color_444"><span class="unvisible">&nbsp;</span></em>
+	<div class="flex_child">
+        				<div class="easy_text  pad_b6">997646858</div>			</div>
+</div>    	</div>
+    </div>
+        	</div><div class="row">
+    	             
+    <div id="steasy_element_27" class="col-lg- steasy_element_1 ">
+    	<div class="steasy_element_item text-0 ">
+		    	<div class="easy_icon_with_text_4_1 flex_container flex_start">
+	<em class="fto-clock easy_icon fs_md color_444"><span class="unvisible">&nbsp;</span></em>
+	<div class="flex_child">
+        				<div class="easy_text  pad_b6">Horario de atención:
+Lun-Sab: 10am-7pm</div>			</div>
+</div>    	</div>
+    </div>
+   
+</div>  </div>
+            			            </div>
+	        		</div>
+           
+         
+<!-- MODULE st easy content -->    	</div>
+    </section>
+    <!-- /MODULE st steasycontent -->
+                </div>
+			</div>
+        </div>
+    </section>
+        
+
+                    <div id="footer-bottom" class=" footer_bottom_center ">
+        <div class="wide_container_box wide_container">
+            <div id="footer-bottom-container" class="container">
+                <div class="row">
+                    <div class="col-12 col-sm-12 clearfix">      
+                        <aside id="footer_bottom_right">
+                        	                            
+                        </aside>
+                        <aside id="footer_bottom_left">
+                        	<div class="copyright_text">©2021 Naylamp Mechatronics SAC</div>
+	    					 
+    					</aside> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </footer>		
+	  </div><!-- #page_wrapper -->
+	</main>
+	<!-- off-canvas-begin -->
+			<div id="st-content-inner-after" data-version="1-7-8-7-2-6-5"></div>
+		  </div><!-- /st-content-inner -->
+		</div><!-- /st-content -->
+		<div id="st-pusher-after"></div>
+	  </div><!-- /st-pusher -->
+	  		
+		<div class="st-menu" id="side_search">
+	<div class="st-menu-header">
+		<h3 class="st-menu-title">Buscar</h3>
+    	<a href="javascript:;" class="close_right_side" title="Cerca"><i class="fto-angle-double-right side_close_right"></i><i class="fto-angle-double-left side_close_left"></i></a>
+	</div>
+	<div id="search_block_side" class="pad_10">
+		<div class="search_widget_block ">
+<div class="search_widget" data-search-controller-url="//naylampmechatronics.com/buscar">
+	<form method="get" action="//naylampmechatronics.com/buscar" class="search_widget_form">
+		<input type="hidden" name="controller" value="search">
+		<div class="search_widget_form_inner input-group round_item js-parent-focus input-group-with-border">
+	      <input type="text" class="form-control search_widget_text js-child-focus" name="s" value="" placeholder="Buscar en catalogo">
+	      <span class="input-group-btn">
+	        <button class="btn btn-search btn-no-padding btn-spin search_widget_btn link_color icon_btn" type="submit"><i class="fto-search-1"></i></button>
+	      </span>
+	    </div>
+
+	</form>
+	<div class="search_results  search_show_img  search_show_name  search_show_price "></div>
+	<a href="javascript:;" title="Más productos." rel="nofollow" class="display_none search_more_products go">Haga clic para más productos.</a>
+	<div class="display_none search_no_products">No se encontraron productos.</div>
+</div>
+</div>
+	</div>
+</div><!-- MODULE st stshoppingcart -->
+<nav class="st-menu" id="side_products_cart">
+	<div class="st-menu-header">
+		<h3 class="st-menu-title">Ver carrito de compras</h3>
+    	<a href="javascript:;" class="close_right_side" title="Cerca"><i class="fto-angle-double-right side_close_right"></i><i class="fto-angle-double-left side_close_left"></i></a>
+	</div>
+	<div id="side_cart_block" class="pad_10">
+		      <div class="shoppingcart-list">
+              <div class="cart_empty">Su carrito de compras está vacío.</div>
+            </div>	</div>
+</nav>
+<!-- /MODULE st stshoppingcart --><!-- MODULE st stmegamenu -->
+<div class="st-menu" id="side_stmobilemenu">
+  <div class="st-menu-header">
+	<h3 class="st-menu-title">Menú</h3>
+	  <a href="javascript:;" class="close_right_side" title="Cerca"><i class="fto-angle-double-right side_close_right"></i><i class="fto-angle-double-left side_close_left"></i></a>
+  </div>
+  <div id="st_mobile_menu" class="stmobilemenu_box">
+	<!-- MODULE st megamenu -->
+	<ul id="st_mobile_menu_ul" class="mo_mu_level_0">
+							<li id="st_mo_menu_6" class="mo_ml_level_0 mo_ml_column">
+						<div class="menu_a_wrap">
+			<a id="st_mo_ma_6" href="javascript:;" class="mo_ma_level_0" title="Productos"><i class="fto-menu"></i>Productos</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+																																																						<ul id="st_mo_menu_block_7" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_7" href="https://naylampmechatronics.com/12-ardusystem" title="Ardusystem" class="mo_ma_level_1 mo_sub_a">Ardusystem</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/159-arduino-original" title="Arduino Original" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Arduino Original</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/130-kits-de-aprendizaje" title="Kits de aprendizaje" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Kits de aprendizaje</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/15-ardusystem-accesorios" title="Accesorios" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/14-ardusystem-shields" title="Shields" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Shields</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/13-ardusystem-tarjetas" title="Tarjetas" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Tarjetas</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_9" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_9" href="https://naylampmechatronics.com/19-raspberry-pi" title="Raspberry Pi" class="mo_ma_level_1 mo_sub_a">Raspberry Pi</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/20-tarjetas-raspberrypi" title="Tarjetas" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Tarjetas</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/21-accesorios-raspberry" title="Accesorios" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_8" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_8" href="https://naylampmechatronics.com/29-microcontroladores" title="Microcontroladores" class="mo_ma_level_1 mo_sub_a">Microcontroladores</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/23-programadores" title="Programadores" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Programadores</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/190-rp2040" title="RP2040" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>RP2040</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/93-risc-v" title="RISC-V" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>RISC-V</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/47-atmel" title="Atmel AVR" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Atmel AVR</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/84-espressif-esp" title="Espressif ESP" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Espressif ESP</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/77-cpld-y-fpga" title="CPLD y FPGA" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>CPLD y FPGA</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/167-mcu-accesorios" title="Accesorios" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_19" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_19" href="https://naylampmechatronics.com/80-circuitos-integrados" title="Circuitos Integrados" class="mo_ma_level_1 mo_sub_a">Circuitos Integrados</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/192-serie-7400" title="Serie 7400" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Serie 7400</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/193-microcontroladores" title="Microcontroladores" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Microcontroladores</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/169-conversores" title="Conversores" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Conversores</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/81-multiplexores" title="Multiplexores" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Multiplexores</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/168-senal-analogica" title="Señal analógica" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Señal analógica</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																																													<ul id="st_mo_menu_block_10" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_10" href="https://naylampmechatronics.com/16-sensores" title="Sensores" class="mo_ma_level_1 mo_sub_a">Sensores</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/40-sensores-liquido" title="Liquidos" class="mo_sub_a mo_ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Liquidos</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+							<ul class="mo_sub_ul mo_mu_level_3 p_granditem_0">
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/136-nivel" title="Nivel" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Nivel</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/137-flujo-caudal" title="Flujo/Caudal" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Flujo/Caudal</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/138-presion" title="Presión" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Presión</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/38-sensores-proximidad" title="Proximidad" class="mo_sub_a mo_ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Proximidad</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+							<ul class="mo_sub_ul mo_mu_level_3 p_granditem_0">
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/155-capacitivos" title="Capacitivos" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Capacitivos</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/156-inductivos" title="Inductivos" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Inductivos</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/157-opticos" title="Opticos" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Opticos</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/158-ultrasonido" title="Ultrasonido" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Ultrasonido</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/154-distancia" title="Distancia" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Distancia</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/36-sensores-gas" title="Gas" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Gas</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/94-fuerza-peso" title="Fuerza y Peso" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Fuerza y Peso</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/41-sensores-corriente-voltaje" title="Corriente y voltaje" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Corriente y voltaje</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/48-sensores-varios" title="Otros" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Otros</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/57-sensores-posicion-inerciales-gps" title="Posición, Inerciales, GPS" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Posición, Inerciales, GPS</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/39-sensores-luz-y-sonido" title="Luz y sonido" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Luz y sonido</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/37-sensores-temperatura-y-humedad" title="Temperatura y humedad" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Temperatura y humedad</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/60-biometria" title="Biometría" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Biometría</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/83-camaras" title="Camaras" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Camaras</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/61-biomedico" title="Biomédico" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Biomédico</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_11" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_11" href="https://naylampmechatronics.com/17-actuadores" title="Actuadores" class="mo_ma_level_1 mo_sub_a">Actuadores</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/135-bombas-de-agua" title="Bombas de agua" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Bombas de agua</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/25-motores-dc" title="Motores DC" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Motores DC</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/58-motores-pap-steppers" title="Motores PaP Steppers" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Motores PaP Steppers</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/106-ventiladores-dc" title="Ventiladores DC" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Ventiladores DC</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/151-accesorios" title="Accesorios" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/121-motores-brushless" title="Motores Brushless" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Motores Brushless</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/26-servomotores" title="Servomotores" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Servomotores</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/27-termicos" title="Térmicos" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Térmicos</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/59-valvulas" title="Válvulas" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Válvulas</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																																													<ul id="st_mo_menu_block_12" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_12" href="https://naylampmechatronics.com/30-impresion-3d" title="Impresión 3D" class="mo_ma_level_1 mo_sub_a">Impresión 3D</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/78-impresoras-3d-fdm-fff" title="Impresoras 3D FDM/FFF" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Impresoras 3D FDM/FFF</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/108-impresoras-3d-sla" title="Impresoras 3D SLA" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Impresoras 3D SLA</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/109-consumibles" title="Consumibles" class="mo_sub_a mo_ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Consumibles</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+							<ul class="mo_sub_ul mo_mu_level_3 p_granditem_0">
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/120-resinas" title="Resinas" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Resinas</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/119-filamentos" title="Filamentos" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Filamentos</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/111-repuestos-y-accesorios" title="Repuestos y Accesorios" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Repuestos y Accesorios</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_13" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_13" href="https://naylampmechatronics.com/62-v-slot" title="V-Slot" class="mo_ma_level_1 mo_sub_a">V-Slot</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/70-perfiles-de-aluminio" title="Perfiles de aluminio" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Perfiles de aluminio</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/72-tornillos-y-tuercas" title="Tornillos y Tuercas" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Tornillos y Tuercas</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/71-conectores" title="Conectores" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Conectores</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/73-placas" title="Placas" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Placas</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/74-movimiento" title="Movimiento" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Movimiento</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/82-accesorios" title="Accesorios" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_32" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_32" href="https://naylampmechatronics.com/110-cnc-open-source-hw" title="CNC Open Source Hw" class="mo_ma_level_1 mo_sub_a">CNC Open Source Hw</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/68-electronica" title="Electrónica" class="mo_sub_a mo_ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Electrónica</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+							<ul class="mo_sub_ul mo_mu_level_3 p_granditem_0">
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/184-control-cnc" title="Control" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Control</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/65-drivers-cnc" title="Drivers" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Drivers</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/185-sensores-cnc" title="Sensores CNC" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Sensores CNC</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/66-fuentes-de-poder-cnc" title="Fuentes de poder" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes de poder</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/64-motores" title="Motores" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Motores</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/139-transmision-movimiento" title="Transmisión" class="mo_sub_a mo_ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Transmisión</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+							<ul class="mo_sub_ul mo_mu_level_3 p_granditem_0">
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/163-correa-dentada" title="Correa Dentada" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Correa Dentada</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/164-tornillo-de-potencia" title="Tornillo de potencia" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Tornillo de potencia</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/63-guias-lineales" title="Guías Lineales" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Guías Lineales</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/69-rodamientos" title="Rodamientos" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Rodamientos</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/67-accesorios-mecanicos" title="Accesorios Mecánicos" class="mo_sub_a mo_ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Accesorios Mecánicos</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+							<ul class="mo_sub_ul mo_mu_level_3 p_granditem_0">
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/166-brackets" title="Brackets" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Brackets</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/161-acoples" title="Acoples" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Acoples</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/165-poleas" title="Poleas" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Poleas</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/98-accesorios-electronicos" title="Accesorios Electrónicos" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios Electrónicos</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/123-herramientas" title="Herramientas" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Herramientas</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																																													<ul id="st_mo_menu_block_14" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_14" href="https://naylampmechatronics.com/43-comunicacion" title="Comunicación" class="mo_ma_level_1 mo_sub_a">Comunicación</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/95-rfid-nfc" title="RFID/NFC" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>RFID/NFC</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/22-inalambrico" title="Inalambrico" class="mo_sub_a mo_ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Inalambrico</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+							<ul class="mo_sub_ul mo_mu_level_3 p_granditem_0">
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/170-bluetooth" title="Bluetooth" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Bluetooth</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/171-wifi" title="WiFi" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>WiFi</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/172-lora" title="LoRa" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>LoRa</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/173-rf" title="RF" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>RF</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/174-gsm-4g" title="GSM/4G" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>GSM/4G</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/175-infrarrojo" title="Infrarrojo" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Infrarrojo</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/44-alambrico" title="Alámbrico" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Alámbrico</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/45-conversores-ttl" title="Conversores TTL" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Conversores TTL</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_15" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_15" href="https://naylampmechatronics.com/34-fuentes-y-reguladores" title="Fuentes y reguladores" class="mo_ma_level_1 mo_sub_a">Fuentes y reguladores</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/76-fuentes-switching-ac-dc" title="Fuentes Switching AC-DC" class="mo_sub_a mo_ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Fuentes Switching AC-DC</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+							<ul class="mo_sub_ul mo_mu_level_3 p_granditem_0">
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/145-fuentes-usb" title="Fuentes USB" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes USB</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/146-fuentes-embebidas" title="Fuentes Embebidas" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes Embebidas</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/147-fuentes-1a-2a" title="Fuentes 1A-2A" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes 1A-2A</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/148-fuentes-jack-dc" title="Fuentes Jack-DC" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes Jack-DC</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/150-fuentes-industrial-din" title="Fuentes Industrial DIN" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes Industrial DIN</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/149-fuentes-industrial-metal" title="Fuentes Industrial metal" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Fuentes Industrial metal</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/75-conversores-dc-dc" title="Conversores DC-DC" class="mo_sub_a mo_ma_level_2 ma_item  has_children "><i class="fto-angle-right list_arrow"></i>Conversores DC-DC</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+							<ul class="mo_sub_ul mo_mu_level_3 p_granditem_0">
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/181-elevador-step-up-boost" title="Elevador/Step-up/Boost" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Elevador/Step-up/Boost</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/182-reductor-step-down-buck" title="Reductor/Step-down/Buck" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Reductor/Step-down/Buck</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_3 granditem_0 p_granditem_0">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/183-elevador-reductor-step-up-down-boost-buck" title="Elevador-Reductor/Step-up-down/Boost-Buck" class="mo_sub_a mo_ma_level_3 ma_item "><i class="fto-angle-right list_arrow"></i>Elevador-Reductor/Step-up-down/Boost-Buck</a>
+						</div>
+				</li>
+		</ul>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/85-generadores-dc" title="Generadores DC" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Generadores DC</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_25" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_25" href="https://naylampmechatronics.com/42-drivers" title="Drivers" class="mo_ma_level_1 mo_sub_a">Drivers</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/87-driver-pap-stepper" title="Driver PaP Stepper" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Driver PaP Stepper</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/90-ssr-solid-state-relay" title="SSR Solid State Relay" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>SSR Solid State Relay</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/89-relay" title="Relay" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Relay</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/88-mosfet-dc" title="Mosfet DC" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Mosfet DC</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/86-puente-h" title="Puente H (H-bridge)" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Puente H (H-bridge)</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_27" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_27" href="https://naylampmechatronics.com/33-displays" title="Displays" class="mo_ma_level_1 mo_sub_a">Displays</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/126-lcd-alfanumerico" title="LCD alfanumérico" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>LCD alfanumérico</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/128-oled" title="OLED" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>OLED</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/129-led" title="LED" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>LED</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/127-lcd-color" title="LCD color" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>LCD color</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_22" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_22" href="https://naylampmechatronics.com/46-interfaz-de-usuario" title="Interfaz de usuario" class="mo_ma_level_1 mo_sub_a">Interfaz de usuario</a>
+																						</div>
+    																				</li>
+									</ul>	
+																																																																													<ul id="st_mo_menu_block_24" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_24" href="https://naylampmechatronics.com/28-robotica" title="Robótica" class="mo_ma_level_1 mo_sub_a">Robótica</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/53-robotica-movil" title="Móvil" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Móvil</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/55-brazo-robotico" title="Brazo" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Brazo</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/52-drone-uav-vant" title="Drones" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Drones</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/54-robots-bipedos" title="Bípedos" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Bípedos</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_17" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_17" href="https://naylampmechatronics.com/35-accesorios-y-prototipado" title="Accesorios y Prototipado" class="mo_ma_level_1 mo_sub_a">Accesorios y Prototipado</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/97-protoboard" title="Protoboard" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Protoboard</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/103-resistencias" title="Resistencias" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Resistencias</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/104-condensadores" title="Condensadores" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Condensadores</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/194-diodos" title="Diodos" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Diodos</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/105-transistor" title="Transistor" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Transistor</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/153-interruptores-switchs" title="Interruptores/Switchs" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Interruptores/Switchs</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/152-pulsadores" title="Pulsadores" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Pulsadores</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/96-cables" title="Cables" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Cables</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/125-conectores-electricos" title="Conectores eléctricos" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Conectores eléctricos</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/180-headers" title="Headers" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Headers</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_20" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_20" href="https://naylampmechatronics.com/24-kits" title="Kits" class="mo_ma_level_1 mo_sub_a">Kits</a>
+																						</div>
+    																				</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_16" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_16" href="https://naylampmechatronics.com/92-instrumentos-y-equipos-de-laboratorio" title="Instrumentos y equipos de laboratorio" class="mo_ma_level_1 mo_sub_a">Instrumentos y equipos de laboratorio</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/112-multimetros" title="Multímetros" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Multímetros</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/113-pinzas-amperimetricas" title="Pinzas Amperimétricas" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Pinzas Amperimétricas</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/115-generadores-de-senal" title="Generadores de señal" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Generadores de señal</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_21" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_21" href="https://naylampmechatronics.com/91-herramientas" title="Herramientas" class="mo_ma_level_1 mo_sub_a">Herramientas</a>
+																						</div>
+    																				</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_18" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_18" href="https://naylampmechatronics.com/56-baterias" title="Baterías" class="mo_ma_level_1 mo_sub_a">Baterías</a>
+											<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>											</div>
+    																								<ul class="mo_sub_ul mo_mu_level_2 p_granditem_1">
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/99-cargador" title="Cargador" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Cargador</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/102-accesorios" title="Accesorios" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Accesorios</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/100-li-po" title="Li-Po" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Li-Po</a>
+						</div>
+				</li>
+					<li class="mo_sub_li mo_ml_level_2 granditem_0 p_granditem_1">
+			<div class="menu_a_wrap">
+			<a href="https://naylampmechatronics.com/101-alcalina" title="Alcalina" class="mo_sub_a mo_ma_level_2 ma_item "><i class="fto-angle-right list_arrow"></i>Alcalina</a>
+						</div>
+				</li>
+		</ul>
+																					</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_23" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_23" href="https://naylampmechatronics.com/49-luces-iluminacion" title="Luces e iluminación" class="mo_ma_level_1 mo_sub_a">Luces e iluminación</a>
+																						</div>
+    																				</li>
+									</ul>	
+																																																				<ul id="st_mo_menu_block_26" class="mo_mu_level_1 mo_sub_ul">
+										<li class="mo_ml_level_1 mo_sub_li">
+																						<div class="menu_a_wrap">
+											<a  id="st_mo_ma_26" href="https://naylampmechatronics.com/50-almacenamiento" title="Almacenamiento" class="mo_ma_level_1 mo_sub_a">Almacenamiento</a>
+																						</div>
+    																				</li>
+									</ul>	
+																																			</li>
+									<li id="st_mo_menu_2" class="mo_ml_level_0 mo_ml_column">
+						<div class="menu_a_wrap">
+			<a id="st_mo_ma_2" href="javascript:;" class="mo_ma_level_0" title="Impresión 3D">Impresión 3D</a>
+			<span class="opener"><i class="fto-plus-2 plus_sign"></i><i class="fto-minus minus_sign"></i></span>			</div>
+																																													<div id="st_mo_menu_block_3" class="stmobilemenu_column style_content">
+									<p>Gran selección de productos para fabricación digital aditiva, desarrolla tu creatividad</p>
+<p></p>
+								</div>
+																																																												<div id="st_mo_menu_block_4" class="stmobilemenu_column style_content">
+									<p><a href="https://naylampmechatronics.com/78-impresoras-3d-fdm-fff" title="Panda theme" rel="nofollow"><img src="https://naylampmechatronics.com/img/cms/Megamenu/filamentPrinter.jpg" alt="Impresoras de filamento" width="352" height="104" /></a></p>
+<h5 style="font-family: 'Share Tech'; font-weight: 400;"><a href="https://naylampmechatronics.com/78-impresoras-3d-fdm-fff">Impresoras FMD</a></h5>
+								</div>
+																																																												<div id="st_mo_menu_block_5" class="stmobilemenu_column style_content">
+									<p><a href="https://naylampmechatronics.com/108-impresoras-3d-sla" title="Panda theme" rel="nofollow"><img src="https://naylampmechatronics.com/img/cms/Megamenu/resinPrinter.jpg" alt="Impresoras de resina" width="352" height="104" /></a></p>
+<h5 style="font-family: 'Share Tech'; font-weight: 400;"><a href="https://naylampmechatronics.com/108-impresoras-3d-sla">Impresoras de resina</a></h5>
+								</div>
+																																																												<div id="st_mo_menu_block_31" class="stmobilemenu_column style_content">
+									<p><a href="https://naylampmechatronics.com/109-consumibles" title="Panda theme" rel="nofollow"><img src="https://naylampmechatronics.com/img/cms/Megamenu/consumibles.jpg" alt="Consumibles" width="352" height="104" /></a></p> <h5 style="font-family: 'Share Tech'; font-weight: 400;"><a href="https://naylampmechatronics.com/109-consumibles">Consumibles y accesorios</a></h5>
+								</div>
+																											</li>
+									<li id="st_mo_menu_28" class="mo_ml_level_0 mo_ml_column">
+						<div class="menu_a_wrap">
+			<a id="st_mo_ma_28" href="https://naylampmechatronics.com/content/6-tutoriales-y-proyectos-con-arduino" class="mo_ma_level_0" title="Tutoriales y Proyectos con Arduino">Tutoriales</a>
+						</div>
+					</li>
+									<li id="st_mo_menu_29" class="mo_ml_level_0 mo_ml_column">
+						<div class="menu_a_wrap">
+			<a id="st_mo_ma_29" href="https://naylampmechatronics.com/blog/3-noticias" class="mo_ma_level_0" title="Noticias">Noticias</a>
+						</div>
+					</li>
+			</ul>
+<!-- /MODULE st megamenu -->  </div>
+</div>
+<!-- /MODULE st stmegamenu --><!-- MODULE st stnewsletter -->
+<!-- /MODULE st stnewsletter --><!-- MODULE st stsidebar -->
+    <div class="st-menu" id="side_mobile_nav">
+        <div class="st-menu-header">
+            <h3 class="st-menu-title">Ajustes</h3>
+            <a href="javascript:;" class="close_right_side" title="Cerca"><i class="fto-angle-double-right side_close_right"></i><i class="fto-angle-double-left side_close_left"></i></a>
+        </div>
+      <div class="mobile_nav_box">
+        <!-- MODULE st stcustomersignin -->
+<!-- Block user information module NAV  -->
+<ul id="userinfo_mod_mobile_menu" class="mo_mu_level_0 mobile_menu_ul">
+	    <li class="mo_ml_level_0 mo_ml_column">
+        <a href="javascript:;" rel="nofollow" class="mo_ma_level_0  ma_span" title="Bienvenido">
+            Bienvenido
+        </a>
+    </li>
+        <li class="mo_ml_level_0 mo_ml_column">
+        <a href="https://naylampmechatronics.com/mi-cuenta" title="Acceda a su cuenta de cliente" rel="nofollow" class="mo_ma_level_0">
+            Iniciar sesión
+        </a>
+    </li>
+</ul>
+<!-- /Block usmodule NAV -->
+<!-- /MODULE st stcustomersignin -->
+<!-- MODULE st stcurrencyselector -->
+<!-- Block currencies module -->
+<ul id="currencies_block_mobile_menu" class="mo_mu_level_0 mobile_menu_ul">
+	<li class="mo_ml_level_0 mo_ml_column">
+		<div class="menu_a_wrap">
+		<a href="javascript:;" rel="nofollow" class="mo_ma_level_0 ma_span">S/&nbsp;PEN</a>
+				</div>
+			</li>
+</ul>
+<!-- /Block currencies module -->
+<!-- /MODULE st stcurrencyselector --><!-- MODULE st stlanguageselector -->
+<!-- Block languages module -->
+<ul id="languages-block_mobile_menu" class="mo_mu_level_0 mobile_menu_ul">
+	<li class="mo_ml_level_0 mo_ml_column">
+		<div class="menu_a_wrap">
+		<a href="javascript:;" rel="alternate" hreflang="es" class="mo_ma_level_0 ma_span">Español</a>
+				</div>
+			</li>
+</ul>
+<!-- /Block languages module -->
+<!-- /MODULE st stlanguageselector --><!-- MODULE st stsearchbar -->
+<div class="search_widget_block  stsearchbar_builder top_bar_item ">
+<div class="search_widget" data-search-controller-url="//naylampmechatronics.com/buscar">
+	<form method="get" action="//naylampmechatronics.com/buscar" class="search_widget_form">
+		<input type="hidden" name="controller" value="search">
+		<div class="search_widget_form_inner input-group round_item js-parent-focus input-group-with-border">
+	      <input type="text" class="form-control search_widget_text js-child-focus" name="s" value="" placeholder="Buscar en catalogo">
+	      <span class="input-group-btn">
+	        <button class="btn btn-search btn-no-padding btn-spin search_widget_btn link_color icon_btn" type="submit"><i class="fto-search-1"></i></button>
+	      </span>
+	    </div>
+
+	</form>
+	<div class="search_results  search_show_img  search_show_name  search_show_price "></div>
+	<a href="javascript:;" title="Más productos." rel="nofollow" class="display_none search_more_products go">Haga clic para más productos.</a>
+	<div class="display_none search_no_products">No se encontraron productos.</div>
+</div>
+</div>
+<!-- /MODULE st stsearchbar -->
+
+      </div>
+    </div>
+<!-- /MODULE st stsidebar -->
+
+<!-- MODULE st stviewedproducts -->
+<nav class="st-menu" id="side_viewed">
+	<div class="st-menu-header">
+		<h3 class="st-menu-title">visto recientemente</h3>
+    	<a href="javascript:;" class="close_right_side" title="Cerca"><i class="fto-angle-double-right side_close_right"></i><i class="fto-angle-double-left side_close_left"></i></a>
+	</div>
+	<div id="side_viewed_block" class="pad_10 base_list_line medium_list">
+					<div class="viewed_products_no_products">
+				No hay productos
+			</div>
+			</div>
+</nav>
+<!-- /MODULE st stviewedproducts --><nav class="st-menu" id="side_wishlist">
+    <div class="st-menu-header">
+        <h3 class="st-menu-title">Lista de deseos</h3>
+        <a href="javascript:;" class="close_right_side" title="Cerca"><i class="fto-angle-double-right side_close_right"></i><i class="fto-angle-double-left side_close_left"></i></a>
+    </div>
+    <div id="side_wishlist_block" class="pad_10">
+        <h3 class="page_heading">Guardar en lista de deseos</h3>
+        <ul id="select_wishlist" class="base_list_line">
+                </ul>
+        <div class="form-group form-group-small m-t-1">
+            <div class="input-group">
+              <input
+                      class="form-control"
+                      name="name"
+                      type="text"
+                      placeholder="Crear una lista de deseos"
+                      value="" />
+              <span class="input-group-btn">
+                <button
+                  class="btn_send btn btn-default btn-spin"
+                  type="submit"
+                  id="side_wishlist_submit"
+                >
+                   <i class="fto-plus-2"></i>Crear
+                </button>
+              </span>
+            </div>
+        </div>
+    </div>
+</nav>
+	  
+		
+	
+		<div id="sidebar_box" class="flex_container">
+		
+			
+			<!-- MODULE st stsidebar -->
+<!-- /MODULE st stsidebar -->
+			
+		
+		</div>
+		
+	</div><!-- /st-container -->
+	<!-- off-canvas-end -->
+	<div id="popup_go_login" class="inline_popup_content small_popup mfp-with-anim mfp-hide text-center">
+	  <p class="fs_md">Por favor, regístrese primero.</p>
+	  <a href="https://naylampmechatronics.com/autenticacion" class="go" title="Registrarse">Registrarse</a> 
+	</div>
+	
+        <script src="https://media.naylampmechatronics.com/themes/panda/assets/cache/bottom-bc999f69.js" ></script>
+
+
+    
+        	
+      <!-- MODULE st stnotification -->
+<!-- /MODULE st stnotification --><div id="wishlist_go_login" class="inline_popup_content small_popup mfp-with-anim mfp-hide text-center">
+  <p class="fs_md">Crear una cuenta gratuita para usar listas de deseos.</p>
+  <a href="https://naylampmechatronics.com/autenticacion" class="go" title="Registrarse">Registrarse</a> 
+</div>
+    
+  </body>
+
+</html>
